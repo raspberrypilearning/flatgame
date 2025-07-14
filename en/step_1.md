@@ -2,10 +2,7 @@
 
 Flatgames are a cross between a game and a zine. You are a tiny character that moves around larger than life cut-outs and collages of drawing. They are purposfully quick and messy so that you can focus on getting creative! 
 
-Part of the "this is our club" projects.
-
 Test out a flatgame here:
-
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1196985085/embed?autostart=false" frameborder="0"></iframe>
 </div>
