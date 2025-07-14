@@ -7,7 +7,7 @@ Here are some ideas - have a play! What else can you add?
 ###Add start text
 --- task ---
 Make a paint sprite and call it "start text"
----/task ---
+--- /task ---
 
 --- task ---
 In the costume tab, add text and position so that it can be seen - somewhere near the centre should work well.
