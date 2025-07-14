@@ -1,8 +1,8 @@
 ## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
+Flatgames are a cross between a game and a zine. You are a tiny character that moves around larger than life cut-outs and collages of drawing. They are purposfully quick and messy so that you can focus on getting creative! 
+
+Part of the "this is our club" projects.
 
 --- print-only ---
 ![ALT TEXT](images/IMAGE.png)
@@ -15,28 +15,19 @@ Editor embed
 --- /no-print ---
 
 --- no-print ---
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
 
 Scratch embed
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1196985085/embed?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
 
-### You will need:
-- a
-- b
-- c
+
+
+### Starting with the physcial you'll need
+- drawing or crafting materials (pens, paper, scissors - or whatver you perfer)
+- a phone or tablet to take photos with 
+
+### Did you know?
+The original flatgame was made by game designer Llura Dreamfeel as a way to XXX. 
