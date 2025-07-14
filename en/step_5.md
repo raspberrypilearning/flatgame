@@ -16,8 +16,6 @@ go to [back v] layer
 ```
 --- /task ---
 
-
-
 --- task ---
 Set the x and y values of the sprite to a variable, so that we can change it
 
