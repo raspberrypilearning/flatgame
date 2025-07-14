@@ -1,4 +1,4 @@
-## Get crafting!
+## Make the artwork!
 
 This is the crafty bit! 
 

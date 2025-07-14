@@ -7,13 +7,11 @@ copyedit: false
 last_tested: "2025-01-01"
 steps:
   - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Next step title
-    completion:
-      - internal
+  - title: Make the artwork
+  - title: Get photos to your device
+  - title: Adding background 
+  - title: Scrolling 
+  - title: Add a main sprite
+  - title: Moving the main sprite
+  - title: Adding things!
   - title: Challenge
-    challenge: true
-    completion:
-      - external

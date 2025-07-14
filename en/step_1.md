@@ -9,7 +9,7 @@ Test out a flatgame here:
 
 ### Start with making the art work! You'll need
 🎨 drawing or crafting materials (pens, paper, scissors - or whatever you perfer)
-📷 a phone or tablet to take photos with 
+📷 a phone or tablet to take photos
 
 ### Did you know?
 The original flatgame was made by game designer LINK Llura Dreamfeel as a way to make games with physcial artwork
