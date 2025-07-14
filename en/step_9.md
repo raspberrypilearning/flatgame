@@ -21,7 +21,9 @@ In the code tab add the following code to show and hide the start text
 ```blocks3
 +When flag clicked
 +show
+```
 
+```blocks3
 +when [any v] key pressed
 +wait (0.2) seconds
 +hide
