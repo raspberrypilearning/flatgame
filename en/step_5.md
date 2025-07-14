@@ -18,7 +18,7 @@ go to [back v] layer
 
 
 
----task---
+--- task ---
 Set the x and y values of the sprite to a variable, so that we can change it
 
 ```blocks3
@@ -33,10 +33,10 @@ set [move y v] to (0)
 set x to (move x)
 set y to (move y)
 ```
----/task---
+--- /task ---
 
 
----task---
+--- task ---
 Use if blocks to sense which key is pressed and change the move x or move y by 1 in all directions.
 
 This is the code to add
@@ -65,6 +65,6 @@ end
 change [move y v] by (1)
 end
 ```
----/task---
+--- /task ---
 
 Test it out! The background sprite should move around when you press the arrow keys.

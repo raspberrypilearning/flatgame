@@ -12,15 +12,15 @@ Hover over the play button to try out sounds until you find one that would work 
 When you have decided click on the sound to select it
 --- /task ---
 
----task---
+--- task ---
 The sounds are quite loud.
 
 Make the sound quieter by clicking the Softer icon
----/task---
+--- /task ---
 
 In the code tab start to add code to animate the main sprite.
 
----task---
+--- task ---
 When the game starts you want the main sprite to be at the front.
 
 Add the code:
@@ -29,10 +29,10 @@ Add the code:
 +when flag clicked
 +go to [front v] layer
 ```
----/task---
+--- /task ---
 
 
----task---
+--- task ---
 The main sprite will animate and make a sound, but it won't move. Instead, the background is moving - to make it look like main sprite move.
 
 To animate left and right add the following code 
@@ -50,11 +50,11 @@ next costume
 play sound (Wood Tap v) until done
 end
 ```
----/task---
+--- /task ---
 
 Test your code! Press the green flag and the main sprite should move when you tap the left and right keys.
 
----task---
+--- task ---
 To make it look like it is moving towards each side, use a direction block.
 
 ```blocks3
@@ -76,9 +76,9 @@ end
 Test out the directions as every sprite will be different depending on what the drawing looks like.
 
 GIF testing direction
----/task---
+--- /task ---
 
----task---
+--- task ---
 ```blocks3
 Now use an operator block to add the up and down movements - these don't need a direction, so the code is the same for both.
 
@@ -100,7 +100,7 @@ next costume
 play sound (Wood Tap v) until done
 end
 ```
----/task---
+--- /task ---
 
 Test out the directions as every sprite will be different depending on what the drawing looks like.
 
