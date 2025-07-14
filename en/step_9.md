@@ -9,9 +9,11 @@ Add start text
 Make a paint sprite and call it "start text"
 ---/task---
 
+
 ---task---
 In the costume tab, add text and position so that it can be seen - somewhere near the centre should work well.
 ---/task---
+
 
 ---task---
 In the code tab add the following code to show and hide the start text
@@ -23,6 +25,7 @@ In the code tab add the following code to show and hide the start text
 +when [any v] key pressed
 +wait (0.2) seconds
 +hide
+```
 ---/task---
 
 Add more thing sprite
