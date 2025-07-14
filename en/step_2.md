@@ -14,7 +14,6 @@ something you like to do
 your favourte game
 
 Or, make a flatgame based on right where you are - look around the room you are in, what do you notice, what is interesting or different about it?
-
 ---/task---
 
 --- task ---

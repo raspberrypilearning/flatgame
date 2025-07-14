@@ -10,7 +10,6 @@ On the sounds tab click choose a sound.
 Hover over the play button to try out sounds until you find one that would work for a walking sound. Shorter sounds work best. 
 
 When you have decided click on the sound to select it
-
 --- /task ---
 
 ---task---
@@ -51,14 +50,12 @@ next costume
 play sound (Wood Tap v) until done
 end
 ```
-
 ---/task---
 
 Test your code! Press the green flag and the main sprite should move when you tap the left and right keys.
 
 ---task---
 To make it look like it is moving towards each side, use a direction block.
-
 
 ```blocks3
 when flag clicked
@@ -81,7 +78,7 @@ Test out the directions as every sprite will be different depending on what the 
 GIF testing direction
 ---/task---
 
-
+---task---
 ```blocks3
 Now use an operator block to add the up and down movements - these don't need a direction, so the code is the same for both.
 
