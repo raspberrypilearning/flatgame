@@ -12,7 +12,7 @@ Use the eraser tool to remove any part of the image you don't want.
 This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
 
 Change the size of the eraser tool for smaller details
----task/---
+---/task---
 
 ---task---
 With the sprite tool select all and move to the centre
