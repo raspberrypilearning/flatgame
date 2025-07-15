@@ -5,16 +5,22 @@ Flatgames are a great way to be creative and try new things out with scratch. Tr
 Here are some ideas - have a play! What else can you add? 
 
 ### Make start text
+Let people know the title of your flatgame and how to play
+
 --- task ---
 Make a paint sprite and call it "start text"
 --- /task ---
 
 --- task ---
-In the costume tab, add text and position so that it can be seen - somewhere near the centre should work well.
+In the costume tab, add the text you want.
+
+Move the text so it is easy to read, somewhere near the centre.
+
+SCREEN RECORDING
 --- /task ---
 
 --- task ---
-In the code tab add the following code to show and hide the start text
+In the start text code add the following blocks to show and hide when the flag is clicked:
 
 ```blocks3
 +When flag clicked
@@ -28,42 +34,46 @@ In the code tab add the following code to show and hide the start text
 ```
 --- /task ---
 
-### Add more thing sprite
+### Add more artwork sprite
+Flatgames are great when they are full of art! 
+
 --- task ---
-Duplicate the thing sprite and name it thing 2
+Duplicate the thing sprite and name it artwork 2
 --- /task ---
 
 --- task ---
-Upload a new costume and edit it in the same way as they thing 1.
+Upload a new costume and edit it in the same way as the artwork you made earlier.
 
-You won't need to add more code - as this will be the same for all things
-
-Hoe many things do you have in your flatgame?
+You can think about where you want to place the new artwork sprites - are they all in a line, or spread out?
 --- /task ---
 
 ### Change layer of things
---- task ---
-It can be fun for the main spite to walk under and over the things. 
+It can be fun for the main spite to walk under and over the artwork, change some of the layers to do this. 
 
-In the thing sprite add the layer order block under the green flag event.
+--- task ---
+In the artwork sprite add the layer order block under the green flag event.
 
 ```blocks3
 +go to [front v] layer
 ```
 --- /task ---
 
-### Animate the things
---- task ---
-You could animate some of the things to add movement to the flatgame
+### Animate the artwork
+You could animate some of the artwork to add movement to the flatgame.
 
-Duplicate the thing 1 costume. 
+--- task ---
+Ddecide on which artwork you want to animate. 
+
+Select the chosen artwork sprite and duplicate the costume. 
 
 Move the new costume very slightly, this will be the next sequance in the animation
+
+SCREEN RECORD
 --- /task ---
 
 
 --- task ---
-Add the follow code to a new flag event
+Make a new green flag event and add this code:
 
 ```blocks3
 +when flag clicked

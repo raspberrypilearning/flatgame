@@ -3,7 +3,7 @@
 To make a scrolling effect, the background sprite moves on the x and y axis when the keys are pressed,
 
 --- task ---
-Add these blocks to make sure we start at 0
+Add these two blocks to the background code. They set the *move x* and *move y* XXXvariables to 0.
 
 ```blocks3
 when flag clicked
@@ -17,7 +17,7 @@ go to [back v] layer
 --- /task ---
 
 --- task ---
-Set the x and y values of the sprite to a variable, so that we can change it
+Add a loop and set the x and y values of the background sprite to the *move x* and *move y* XXXvariables.
 
 ```blocks3
 when flag clicked
@@ -35,7 +35,7 @@ set y to (move y)
 
 
 --- task ---
-Use if blocks to sense which key is pressed and change the move x or move y by 1 in all directions.
+Use XXXif blocks to sense when each arrow XXXkey is pressed. For each arrow key add a XXXchange block this will change move x or move y by 1 or -1 to move the background.
 
 This is the code to add
 

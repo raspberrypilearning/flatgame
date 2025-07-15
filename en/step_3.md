@@ -5,5 +5,7 @@ This section is different for everyone - you'll need to get your club leader to 
 --- task ---
 Once you have your photos, make a note of where they are stored.
 
-You could even write down the name of the folder they are in to help your remember. 
+You could write down the name of the folder they are in to help your remember. 
+
+GIF - files?
 --- /task ---
