@@ -10,4 +10,4 @@ Test out a flatgame here:
 ### You'll need:
 🎨 drawing or crafting materials (pens, paper, scissors)
 📷 a phone or tablet to take photos
-👾 the Scratch [starter project](link)
+👾 the Scratch [starter project](link){:target="_blank"}

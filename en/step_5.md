@@ -1,7 +1,7 @@
 ## Adding background 
 
 --- task ---
-Open the Scratch [ADD LINK starter project](add link) 
+Open the Scratch [ADD LINK starter project](add link){:target="_blank"} 
 --- /task ---
 
 --- task ---

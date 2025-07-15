@@ -1,8 +1,6 @@
 ## Make the artwork!
 
-🖌️ This is the arty bit! 
-
-Flatgames start with making artwork on a **theme**. Themes could be based on: 
+Start with a **theme**. Themes could be based on: 
 
 - a place you like to visit
 - something you like to do
@@ -13,14 +11,12 @@ Or, make a flatgame theme based on right where you are. 👀 Look around the roo
 --- task ---
 Decide on a **theme** for your flatgame. 
 
-Write out a list of your top 5 themes, and chose one.
+Write out a list of your top 5 themes, and chose your favourite.
 --- /task ---
 
 
 --- task ---
-With your crafting materials draw objects, characters, or anything related to your **theme**.  
-
-You don't need to inlcude everyhting you draw in the final project, so feel free to get crafting and make more art than you need. 
+Start drawing and crafting characters, backgrounds, objects or anything related to your **theme**.  
 
 GIF - drawing / making
 --- /task ---
@@ -29,7 +25,7 @@ GIF - drawing / making
 --- task ---
 With a tablet or phone take photos of your art. This will be the artwork you use for your game, try to take picture in focus and in a light room 📸
 
-You cam also take close-up photos to add texture to your flatgame and take photos of objects you might want to include in the game. 
+You can also take close-up photos to add texture to your flatgame and take photos of things around you that you might want to include in the game. 
 
 GIF - taking photos
 --- /task ---
