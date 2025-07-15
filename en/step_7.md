@@ -2,8 +2,6 @@
 
 The main sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
 
-
-
 --- task ---
 When the game starts you want the main sprite to be at the front. 
 
@@ -15,7 +13,6 @@ In the main sprite code tab, add a layer block when the flag is clicked:
 ```
 --- /task ---
 
---- task ---
 
 --- task ---
 To make it look like it is moving towards each side, use a direction block when the arrow keys are pressed.
