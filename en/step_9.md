@@ -4,7 +4,7 @@ Flatgames are a great way to be creative and try new things out with scratch. Tr
 
 Here are some ideas - have a play! What else can you add? 
 
-###Make start text
+### Make start text
 --- task ---
 Make a paint sprite and call it "start text"
 --- /task ---
@@ -28,7 +28,7 @@ In the code tab add the following code to show and hide the start text
 ```
 --- /task ---
 
-###Add more thing sprite
+### Add more thing sprite
 --- task ---
 Duplicate the thing sprite and name it thing 2
 --- /task ---
@@ -41,7 +41,7 @@ You won't need to add more code - as this will be the same for all things
 Hoe many things do you have in your flatgame?
 --- /task ---
 
-###Change layer of things
+### Change layer of things
 --- task ---
 It can be fun for the main spite to walk under and over the things. 
 
@@ -52,7 +52,7 @@ In the thing sprite add the layer order block under the green flag event.
 ```
 --- /task ---
 
-###Animate the things
+### Animate the things
 --- task ---
 You could animate some of the things to add movement to the flatgame
 
