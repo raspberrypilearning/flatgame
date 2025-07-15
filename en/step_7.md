@@ -1,112 +1,44 @@
-## Moving the main sprite
+## Add a main sprite
 
-The main sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
-
---- task ---
-When the game starts you want the main sprite to be at the front. 
-
-In the main sprite code tab, add a layer block when the flag is clicked:
-
-```blocks3
-+when flag clicked
-+go to [front v] layer
-```
---- /task ---
-
+The main sprite explores the flatgame, checking out the different drawings and textures.
 
 --- task ---
-To make it look like it is moving towards each side, use a direction block when the arrow keys are pressed.
-
-```blocks3
-when flag clicked
-go to [front v] layer
-forever
-if <key (left arrow v) pressed> then
-+point in direction (130)
-next costume
-play sound (Wood Tap v) until done
-end
-if <key (right arrow v) pressed> then
-+point in direction (-130)
-next costume
-play sound (Wood Tap v) until done
-end
-```
---- /task ---
-
-Test your code! Press the green flag and the main sprite should move when you use the left and right keys.
-
---- task ---
-Your direction might be different - test out a few angles with the direction block until it looks like your srite is facing the right way as every sprite will be different depending on what the drawing looks like.
-
-GIF testing direction
+Upload a new sprite and rename it main.
 --- /task ---
 
 --- task ---
-```blocks3
-Now use an operator block to add the up and down keys. These don't need a direction, so the code is the same for both up and down.
+Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
 
-when flag clicked
-go to [front v] layer
-forever
-if <key (left arrow v) pressed> then
-point in direction (130)
-next costume
-end
-if <key (right arrow v) pressed> then
-point in direction (-130)
-next costume
-end
-+if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then
-next costume
-end
-```
+This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
+
+SCREEN RECORD
 --- /task ---
 
-Add sound to make it look a bit more life like. Test it out again and think of a sound that your background might make when the main sprite is walking accross it. 
+--- task ---
+With the select tool drag over the image to select all. Centre the image by lining up the cross.
 
-For example, a background of leaves might make a crunch sound. 
+SCREEN RECORD
+--- /task ---
 
 --- task ---
-On the sounds tab click choose a sound.
-
-Hover over the play button to try out sounds until you find one that would work for a walking sound. Shorter sounds work best. 
-
-When you have decided click on the sound to select it
+Convert to Vector
 
 IMAGE
 --- /task ---
 
 --- task ---
-The sounds are quite loud.
+Use the select tool to resize and rotate the sprite to how you want it. 
 
-Make the sound quieter by clicking the Softer icon
+It should be quite small so that there is plenty of room on the stage around it.
 
-IMAGE
+SCREEN RECORD
 --- /task ---
 
 --- task ---
-Add sound blocks to your code:
+When you have your sprite exactly how you want it, right click and duplicate the costume.
 
-```blocks3
-when flag clicked
-go to [front v] layer
-+forever
-if <key (left arrow v) pressed> then
-next costume
-+play sound (Wood Tap v) until done
-end
-if <key (right arrow v) pressed> then
-next costume
-+play sound (Wood Tap v) until done
-end
-if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then
-next costume
-+play sound (Wood Tap v) until done
-end
-```
+Move the new costume and/or rotate it very slightly. This will animate it to make it look like it is moving.
+
+SCREEN RECORD
 --- /task ---
-
-Test it again - how does the sound work out? Is the direction ok? If you need to tweak volume or direction you can go back and change it in your code.
-
 

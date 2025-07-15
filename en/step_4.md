@@ -1,44 +1,11 @@
-## Adding background 
+## Get photos to your device
+
+This section is different for everyone - you'll need to get your club leader to help get all your photos to your device. 
 
 --- task ---
-Open the Scratch [ADD LINK starter project](add link) 
+Once you have your photos, make a note of where they are stored.
+
+You could write down the name of the folder they are in to help your remember. 
+
+GIF - files?
 --- /task ---
-
---- task ---
-In the background sprite upload one of your photos to be used as a background. Rename the sprite "background" and drag it to the top.
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-Click "make vector"
-
-IMAGE
---- /task ---
-
---- task ---
-Rotate and resize the photo so that it covers the XXXpaint area
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-Delete the placeholder costume- but make sure you DO NOT delete the zoom costume
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-In the starter code change the switch the costumes. Your blocks should look like this:
-
-```blocks3
-when flag clicked
-switch costume to (zoom v)
-set size to [400]%
-switch costume to (background v)
-go to [back v] layer
-```
-
-The first switch is to zoom, and then to background. This is how we make the background sprite really big!
---- /task ---
-

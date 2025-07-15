@@ -1,11 +1,35 @@
-## Get photos to your device
+## Make the artwork!
 
-This section is different for everyone - you'll need to get your club leader to help get all your photos to your device. 
+🖌️ This is the arty bit! 
+
+Flatgames start with making artwork on a **theme**. Themes could be based on: 
+
+- a place you like to visit
+- something you like to do
+- your favourite game
+
+Or, make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it?
 
 --- task ---
-Once you have your photos, make a note of where they are stored.
+Decide on a **theme** for your flatgame. 
 
-You could write down the name of the folder they are in to help your remember. 
+Write out a list of your top 5 themes, and chose one.
+--- /task ---
 
-GIF - files?
+
+--- task ---
+With your crafting materials draw objects, characters, or anything related to your **theme**.  
+
+You don't need to inlcude everyhting you draw in the final project, so feel free to get crafting and make more art than you need. 
+
+GIF - drawing / making
+--- /task ---
+
+
+--- task ---
+With a tablet or phone take photos of your art. This will be the artwork you use for your game, try to take picture in focus and in a light room 📸
+
+You cam also take close-up photos to add texture to your flatgame and take photos of objects you might want to include in the game. 
+
+GIF - taking photos
 --- /task ---

@@ -1,6 +1,6 @@
 ## What you will make
 
-Flatgames are a cross between a game and a zine. A tiny character moves around larger than life artwork, under cut-outs of drawings and over collages of photos. They are messy so that you can focus on getting creative! 
+Flatgames are a cross between a game and a zine. To play you move a tiny character around larger-than-life artwork, under cut-outs of drawings and over collages of photos. 
 
 Test out a flatgame here:
 <div class="scratch-preview">
@@ -11,6 +11,3 @@ Test out a flatgame here:
 🎨 drawing or crafting materials (pens, paper, scissors)
 📷 a phone or tablet to take photos
 👾 the Scratch [starter project](link)
-
-### Did you know?
-The original flatgame was made by Llaura McGee who is a game designer at [Dreamfeel](https://dreamfeel.ie/). They are a way to make more arty video games.

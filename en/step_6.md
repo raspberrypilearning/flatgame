@@ -1,44 +1,68 @@
-## Add a main sprite
+## Scrolling 
 
-The main sprite explores the flatgame, checking out the different drawings and textures.
+To make a scrolling effect, the background sprite moves on the x and y axis when the keys are pressed,
 
 --- task ---
-Upload a new sprite and rename it main.
+Add these two blocks to the background code. They set the *move x* and *move y* XXXvariables to 0.
+
+```blocks3
+when flag clicked
+switch costume to (zoom v)
+set size to [400]%
+switch costume to (background v)
+go to [back v] layer
++ set [move x v] to (0)
++ set [move y v] to (0)
+```
 --- /task ---
 
 --- task ---
-Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
+Add a loop and set the x and y values of the background sprite to the *move x* and *move y* XXXvariables.
 
-This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
-
-SCREEN RECORD
+```blocks3
+when flag clicked
+switch costume to (zoom v)
+set size to [400]%
+switch costume to (background v)
+go to [back v] layer
+set [move x v] to (0)
+set [move y v] to (0)
++forever
+set x to (move x)
+set y to (move y)
+```
 --- /task ---
+
 
 --- task ---
-With the select tool drag over the image to select all. Centre the image by lining up the cross.
+Use XXXif blocks to sense when each arrow XXXkey is pressed. For each arrow key add a XXXchange block this will change move x or move y by 1 or -1 to move the background.
 
-SCREEN RECORD
+This is the code to add
+
+```blocks3
+when flag clicked
+switch costume to (zoom v)
+set size to [400]%
+switch costume to (background v)
+go to [back v] layer
+set [move x v] to (0)
+set [move y v] to (0)
+forever
+set x to (move x)
+set y to (move y)
++if<key (left arrow v) pressed>then
+change [move x v] by (1)
+end
++if<key (right arrow v) pressed>then
+change [move x v] by (-1)
+end
++if<key (up arrow v) pressed>then
+change [move y v] by (-1)
+end
++if<key (down arrow v) pressed>then
+change [move y v] by (1)
+end
+```
 --- /task ---
 
---- task ---
-Convert to Vector
-
-IMAGE
---- /task ---
-
---- task ---
-Use the select tool to resize and rotate the sprite to how you want it. 
-
-It should be quite small so that there is plenty of room on the stage around it.
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-When you have your sprite exactly how you want it, right click and duplicate the costume.
-
-Move the new costume and/or rotate it very slightly. This will animate it to make it look like it is moving.
-
-SCREEN RECORD
---- /task ---
-
+Test it out! The background sprite should move around when you press the arrow keys.
