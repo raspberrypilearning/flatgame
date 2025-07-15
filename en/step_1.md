@@ -7,9 +7,10 @@ Test out a flatgame here:
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1196985085/embed?autostart=false" frameborder="0"></iframe>
 </div>
 
-### Start with making the art work! You'll need
-🎨 drawing or crafting materials (pens, paper, scissors - or whatever you perfer)
+### To start making the artwork you'll need:
+🎨 drawing or crafting materials (pens, paper, scissors)
 📷 a phone or tablet to take photos
 
+
 ### Did you know?
-The original flatgame was made by game designer LINK Llura Dreamfeel as a way to make games with physcial artwork
+The original flatgame was made by game designer [Llaura McGee from Dreamfeel](https://dreamfeel.ie/) as a way to make more arty video games.
