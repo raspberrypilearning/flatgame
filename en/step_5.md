@@ -1,11 +1,17 @@
 ## Adding background 
 
 --- task ---
-Open the Scratch [ADD LINK starter project](add link){:target="_blank"} 
+Open the Scratch [ADD LINK starter project](https://scratch.mit.edu/projects/1197006395/editor/){:target="_blank"} 
 --- /task ---
 
 --- task ---
 In the background sprite upload one of your photos to be used as a background. Rename the sprite "background" and drag it to the top.
+
+SCREEN RECORD
+--- /task ---
+
+--- task ---
+Delete the placeholder costume- but make sure you DO NOT delete the zoom costume
 
 SCREEN RECORD
 --- /task ---
@@ -22,11 +28,6 @@ Rotate and resize the photo so that it covers the XXXpaint area
 SCREEN RECORD
 --- /task ---
 
---- task ---
-Delete the placeholder costume- but make sure you DO NOT delete the zoom costume
-
-SCREEN RECORD
---- /task ---
 
 --- task ---
 In the starter code change the switch the costumes. Your blocks should look like this:

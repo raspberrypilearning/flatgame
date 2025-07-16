@@ -4,14 +4,13 @@ Start with a **theme**. Themes could be based on:
 
 - a place you like to visit
 - something you like to do
+- an object you like from home
 - your favourite game
 
 Or, make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it?
 
 --- task ---
-Decide on a **theme** for your flatgame. 
-
-Write out a list of your top 5 themes, and chose your favourite.
+Decide on a **theme** and write it down.
 --- /task ---
 
 

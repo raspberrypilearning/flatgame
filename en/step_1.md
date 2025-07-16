@@ -4,10 +4,10 @@ Flatgames are a cross between a game and a zine. To play you move a tiny charact
 
 Test out a flatgame here:
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1196985085/embed?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1197527881/embed?autostart=false" frameborder="0"></iframe>
 </div>
 
 ### You'll need:
 🎨 drawing or crafting materials (pens, paper, scissors)
 📷 a phone or tablet to take photos
-👾 the Scratch [starter project](link){:target="_blank"}
+👾 the Scratch [starter project](https://scratch.mit.edu/projects/1197006395/editor/){:target="_blank"}

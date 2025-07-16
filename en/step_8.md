@@ -63,6 +63,8 @@ end
 ```
 --- /task ---
 
+
+NEW STEP!
 Add sound to make it look a bit more life like. Test it out again and think of a sound that your background might make when the main sprite is walking accross it. 
 
 For example, a background of leaves might make a crunch sound. 
