@@ -40,7 +40,7 @@ In the start text code add the following blocks to show and hide when the flag i
 Flatgames are great when they are full of art! 
 
 --- task ---
-Duplicate the thing sprite and name it artwork 2
+Duplicate the artwork sprite and name it artwork 2
 --- /task ---
 
 --- task ---
@@ -49,7 +49,7 @@ Upload a new costume and edit it in the same way as the artwork you made earlier
 You can think about where you want to place the new artwork sprites - are they all in a line, or spread out?
 --- /task ---
 
-### Change layer of things
+### Change layer of artworks
 It can be fun for the main spite to walk under and over the artwork, change some of the layers to do this. 
 
 --- task ---
@@ -83,6 +83,4 @@ Make a new green flag event and add this code:
 next costume
 wait (1) seconds
 ```
-
-You can change the wait time to slow down or speed up the animation 
 --- /task ---

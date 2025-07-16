@@ -37,7 +37,7 @@ SCREEN RECORD
 
 
 --- task ---
-In the starter code change the switch the costumes. Your blocks should look like this:
+In the starter code change the `switch costumes`{:class="block3looks"}. Your blocks should look like this:
 
 ```blocks3
 when flag clicked

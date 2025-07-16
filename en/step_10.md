@@ -44,11 +44,11 @@ set y to (move y)
 --- task ---
 Resize and position the image. You can zoom in and out with the - and +. 
 
-For best resaults position the thing sprite at the edges of the XXXNAME of paint window, so that your main sprite can explore the artwork further.
+For best resaults position the artwork sprite at the edges of the paint window, so that your main sprite can explore the artwork further.
 
-If you move the image out of the XXXNAME of paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
+If you move the image out of the paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
 
-SCREEN RECORDING
+ADD SCREEN RECORDING
 --- /task ---
 
 
@@ -63,9 +63,9 @@ This can be playful. You could:
 
 Change the colours, size and position of the text.
 
-Again, if you move the text out of the XXXNAME of paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
+Again, if you move the text out of the paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
 
-IMAGE
+IMAGE ADD
 --- /task ---
 
 
