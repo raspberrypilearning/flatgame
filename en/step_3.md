@@ -7,8 +7,6 @@
 </div><br>
 </html>
 
-https://youtu.be/r16wfxUmBhA
-
 Start with a **theme**. Themes could be based on: 
 
 - a place you like to visit
@@ -21,7 +19,7 @@ Or, make a flatgame theme based on right where you are. 👀 Look around the roo
 --- task ---
 Decide on a **theme** and, start drawing and crafting characters, backgrounds, objects or anything related.  
 
-GIF - drawing / making
+ADD GIF - drawing / making
 --- /task ---
 
 
@@ -30,5 +28,5 @@ With a tablet or phone take photos of your art. This will be the artwork you use
 
 You can also take close-up photos to add texture to your flatgame and take photos of things around you that you might want to include in the game. 
 
-GIF - taking photos
+ADD GIF - taking photos
 --- /task ---

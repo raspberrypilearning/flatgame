@@ -1,4 +1,7 @@
 ## Adding artwork!
+
+*not edited vid yet*
+
 In this step you can get creative adding textures, drawings, stories, or any other artwork that you want to complete your flatgame.
 
 --- task ---

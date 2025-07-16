@@ -1,7 +1,14 @@
 ## Adding background 
 
+<html>
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/JRcxjMKMYTE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+</iframe>
+</div><br>
+</html>
+
 --- task ---
-Open the Scratch [ADD LINK starter project](https://scratch.mit.edu/projects/1197006395/editor/){:target="_blank"} 
+Open the Scratch [starter project](https://scratch.mit.edu/projects/1197006395/editor/){:target="_blank"} 
 --- /task ---
 
 --- task ---

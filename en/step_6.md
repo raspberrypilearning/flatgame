@@ -1,5 +1,7 @@
 ## Scrolling 
 
+*not edited vid yet*
+
 To make a scrolling effect, the background sprite moves on the x and y axis when the keys are pressed,
 
 --- task ---
