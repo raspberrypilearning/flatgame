@@ -1,5 +1,14 @@
 ## Make the artwork!
 
+<html>
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/r16wfxUmBhA?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+</iframe>
+</div><br>
+</html>
+
+https://youtu.be/r16wfxUmBhA
+
 Start with a **theme**. Themes could be based on: 
 
 - a place you like to visit
@@ -10,12 +19,7 @@ Start with a **theme**. Themes could be based on:
 Or, make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it?
 
 --- task ---
-Decide on a **theme** and write it down.
---- /task ---
-
-
---- task ---
-Start drawing and crafting characters, backgrounds, objects or anything related to your **theme**.  
+Decide on a **theme** and, start drawing and crafting characters, backgrounds, objects or anything related.  
 
 GIF - drawing / making
 --- /task ---
