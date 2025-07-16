@@ -45,7 +45,6 @@ GIF testing direction
 --- /task ---
 
 --- task ---
-```blocks3
 Now use an `operator`{:class="operators"} block to add the up and down keys. These don't need a direction, so the code is the same for both up and down.
 
 when flag clicked
