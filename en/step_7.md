@@ -1,51 +1,66 @@
-## Add a player sprite
+## Moving the player sprite
 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/mE8hQ9ECFe4rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+*not edited vid yet*
 
-The player sprite explores the flatgame, checking out the different drawings and textures.
+The player sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
 
 --- task ---
-Upload a new sprite and rename it player.
+When the game starts you want the player sprite to be at the front. 
+
+In the player sprite code tab, add a layer block when the flag is clicked:
+
+```blocks3
++when flag clicked
++go to [front v] layer
+```
+--- /task ---
+
+
+--- task ---
+To make it look like it is moving towards each side, use a direction block when the arrow keys are pressed.
+
+```blocks3
+when flag clicked
+go to [front v] layer
+forever
+if <key (left arrow v) pressed> then
++point in direction (130)
+next costume
+play sound (Wood Tap v) until done
+end
+if <key (right arrow v) pressed> then
++point in direction (-130)
+next costume
+play sound (Wood Tap v) until done
+end
+```
+--- /task ---
+
+Test your code! Press the green flag and the player sprite should move when you use the left and right keys.
+
+--- task ---
+Your direction might be different - test out a few angles with the direction block until it looks like your srite is facing the right way as every sprite will be different depending on what the drawing looks like.
+
+GIF testing direction
 --- /task ---
 
 --- task ---
-Go to the costumes tab and edit the image. Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
+Now use an `operator`{:class="operators"} block to add the up and down keys. These don't need a direction, so the code is the same for both up and down.
 
-This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
-
-SCREEN RECORD
+```
+when flag clicked
+go to [front v] layer
+forever
+if <key (left arrow v) pressed> then
+point in direction (130)
+next costume
+end
+if <key (right arrow v) pressed> then
+point in direction (-130)
+next costume
+end
++if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then
+next costume
+end
+```
 --- /task ---
-
---- task ---
-With the select tool drag over the image to select all. Centre the image by lining up the cross.
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-Convert to Vector
-
-IMAGE
---- /task ---
-
---- task ---
-Use the select tool to resize and rotate the sprite to how you want it. 
-
-It should be quite small so that there is plenty of room on the stage around it.
-
-SCREEN RECORD
---- /task ---
-
---- task ---
-When you have your sprite exactly how you want it, right click and duplicate the costume.
-
-Move the new costume and/or rotate it very slightly. This will animate it to make it look like it is moving.
-
-SCREEN RECORD
---- /task ---
-

@@ -1,72 +1,86 @@
-## Adding artwork!
+## Challenge
 
 *not edited vid yet*
 
-In this step you can get creative adding textures, drawings, stories, or any other artwork that you want to complete your flatgame.
+Flatgames are a great way to be creative and try new things out with scratch. Try some of these challenges for next steps - and don't worry about making it neat!
+
+Here are some ideas - have a play! What else can you add? 
+
+### Make start text
+Let people know the title of your flatgame and how to play
 
 --- task ---
-Upload a new sprite and name it "artwork 1"
+Make a paint sprite and call it "start text"
+--- /task ---
 
-Use one of your drawings or a photo you have taken
+--- task ---
+In the costume tab, add the text you want.
+
+Move the text so it is easy to read, somewhere near the centre.
+
+SCREEN RECORDING
+--- /task ---
+
+--- task ---
+In the start text code add the following blocks to show and hide when the flag is clicked:
+
+```blocks3
++When flag clicked
++show
+```
+
+```blocks3
++when [any v] key pressed
++wait (0.2) seconds
++hide
+```
+--- /task ---
+
+### Add more artwork sprite
+Flatgames are great when they are full of art! 
+
+--- task ---
+Duplicate the artwork sprite and name it artwork 2
+--- /task ---
+
+--- task ---
+Upload a new costume and edit it in the same way as the artwork you made earlier.
+
+You can think about where you want to place the new artwork sprites - are they all in a line, or spread out?
+--- /task ---
+
+### Change layer of artworks
+It can be fun for the player spite to walk under and over the artwork, change some of the layers to do this. 
+
+--- task ---
+In the artwork sprite add the layer order block under the green flag event.
+
+```blocks3
++go to [front v] layer
+```
+--- /task ---
+
+### Animate the artwork
+You could animate some of the artwork to add movement to the flatgame.
+
+--- task ---
+Ddecide on which artwork you want to animate. 
+
+Select the chosen artwork sprite and duplicate the costume. 
+
+Move the new costume very slightly, this will be the next sequance in the animation
+
+SCREEN RECORD
 --- /task ---
 
 
 --- task ---
-Remove any background you don't want - this has a collage effect so don't be too neat!
-
-IMAGE
---- /task ---
-
---- task ---
-Use the select tool and line up with the centre
-
-IMAGE
---- /task ---
-
---- task ---
-Convert to Vector
-
-IMAGE
---- /task ---
-
---- task ---
-Add code so that the artwork sprite moves in the same way as the background. This will be very similar to the background sprite code.
+Make a new green flag event and add this code:
 
 ```blocks3
 +when flag clicked
 +forever
-set x to (move x)
-set y to (move y)
+next costume
+wait (1) seconds
 ```
 --- /task ---
-
-
---- task ---
-Resize and position the image. You can zoom in and out with the - and +. 
-
-For best resaults position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
-
-If you move the image out of the paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
-
-ADD SCREEN RECORDING
---- /task ---
-
-
---- task ---
-Add text to tell the story of your artwork or images.
-
-This can be playful. You could:
-
-- write a few words about why you chose it
-- describe it
-- repeat and overlap words
-
-Change the colours, size and position of the text.
-
-Again, if you move the text out of the paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
-
-IMAGE ADD
---- /task ---
-
-
-Test it out! Your artwork sprite should move with the background.
