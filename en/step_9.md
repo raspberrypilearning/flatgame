@@ -30,7 +30,7 @@ IMAGE
 --- /task ---
 
 --- task ---
-Add code so that the artwork sprite moves in the same way as the background. This will be very similar to the background sprite code.
+Add this code so that the artwork sprite moves in the same way as the background.
 
 ```blocks3
 +when flag clicked

@@ -67,4 +67,4 @@ end
 ```
 --- /task ---
 
-Test it out! The background sprite should move around when you press the arrow keys.
+Test it out! The background sprite should move around when you press the arrow keys. If it seems a bit slow you can increase the move numbers to make it faster.

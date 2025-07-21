@@ -26,12 +26,10 @@ forever
 if <key (left arrow v) pressed> then
 +point in direction (130)
 next costume
-play sound (Wood Tap v) until done
 end
 if <key (right arrow v) pressed> then
 +point in direction (-130)
 next costume
-play sound (Wood Tap v) until done
 end
 ```
 --- /task ---
