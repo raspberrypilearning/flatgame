@@ -37,16 +37,16 @@ SCREEN RECORD
 
 
 --- task ---
-In the starter code change the `switch costumes`{:class="block3looks"}. Your blocks should look like this:
+
+In the starter code on your background sprite, change the pull-down menu in the `switch costumes`{:class="block3looks"} block to say background:
 
 ```blocks3
 when flag clicked
 switch costume to (zoom v)
 set size to [400]%
-switch costume to (background v)
++switch costume to (background v)
 go to [back v] layer
 ```
-
-The first switch is to zoom, and then to background. This is how we make the background sprite really big!
 --- /task ---
 
+This is how we make the background sprite really big!

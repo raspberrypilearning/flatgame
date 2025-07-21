@@ -1,4 +1,4 @@
-## Add a main sprite
+## Add a player sprite
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -7,14 +7,14 @@
 </div><br>
 </html>
 
-The main sprite explores the flatgame, checking out the different drawings and textures.
+The player sprite explores the flatgame, checking out the different drawings and textures.
 
 --- task ---
-Upload a new sprite and rename it main.
+Upload a new sprite and rename it player.
 --- /task ---
 
 --- task ---
-Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
+Go to the costumes tab and edit the image. Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
 
 This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
 

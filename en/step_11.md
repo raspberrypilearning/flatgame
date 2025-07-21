@@ -50,7 +50,7 @@ You can think about where you want to place the new artwork sprites - are they a
 --- /task ---
 
 ### Change layer of artworks
-It can be fun for the main spite to walk under and over the artwork, change some of the layers to do this. 
+It can be fun for the player spite to walk under and over the artwork, change some of the layers to do this. 
 
 --- task ---
 In the artwork sprite add the layer order block under the green flag event.

@@ -7,13 +7,12 @@ copyedit: false
 last_tested: "2025-01-01"
 steps:
   - title: What you will make
-  - title: What is a Flatgame?
   - title: Make the artwork
   - title: Get photos to your device
   - title: Adding background 
   - title: Scrolling 
-  - title: Add a main sprite
-  - title: Moving the main sprite
+  - title: Add a player sprite
+  - title: Moving the player sprite
   - title: Add sound
   - title: Adding artwork!
   - title: Challenge

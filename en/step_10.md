@@ -44,7 +44,7 @@ set y to (move y)
 --- task ---
 Resize and position the image. You can zoom in and out with the - and +. 
 
-For best resaults position the artwork sprite at the edges of the paint window, so that your main sprite can explore the artwork further.
+For best resaults position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
 
 If you move the image out of the paint window, make sure a small bit of it is still showing otherwise it will be hard to reposition if you want to edit later.
 

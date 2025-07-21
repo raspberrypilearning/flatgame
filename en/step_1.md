@@ -22,6 +22,7 @@ To make a flatgame you start by crafting and making hand-drawn artwork for the g
 📷 a phone or tablet to take photos
 👾 the Scratch [starter project](https://scratch.mit.edu/projects/1197006395/editor/){:target="_blank"}
 
+
 ### Did you know?
 The original flatgame was made by Llaura McGee who is a game designer at [Dreamfeel](https://dreamfeel.ie/){:target="_blank"}. They started making flatgames to make video games look arty!
 
