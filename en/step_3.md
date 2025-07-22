@@ -5,6 +5,7 @@ You'll need to get photos form the phone or tablet into the device you will crae
 This is different for everyone - you might need to get your club leader to help you.
 
 Some simple ways to share files from mobile deives you could try are:
+
 --- task ---
 Using a USB cable
 --- /task ---
