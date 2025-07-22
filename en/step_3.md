@@ -1,13 +1,26 @@
 ## Get photos to your device
 
-*DOES this need a video?*
+You'll need to get photos form the phone or tablet into the device you will craete with.
 
-This section is different for everyone - you'll need to get your club leader to help get all your photos to your device. 
+This is different for everyone - you might need to get your club leader to help you.
+
+Some simple ways to share files from mobile deives you could try are:
+--- task ---
+Using a USB cable
+--- /task ---
 
 --- task ---
+Sending via bluetooth 
+--- /task ---
+
+--- task ---
+Emailing them to yourself or a club mentor 
+--- /task ---
+
+--- task ---
+Using cloud storage (such as Drive or Onedrive
+--- /task ---
+
 Once you have your photos, make a note of where they are stored.
 
 You could write down the name of the folder they are in to help your remember. 
-
-AMight be worth listing some of the simpler ways you can send files from mobile devices - USB, bluetooth, whatsapp in browser, email them to yourself, some sort of cloud storage (Drive/onedrive)? 
---- /task ---

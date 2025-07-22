@@ -1,7 +1,5 @@
 ## Moving the player sprite
 
-*not edited vid yet*
-
 The player sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
 
 --- task ---
@@ -39,7 +37,7 @@ Test your code! Press the green flag and the player sprite should move when you 
 --- task ---
 Your direction might be different - test out a few angles with the direction block until it looks like your srite is facing the right way as every sprite will be different depending on what the drawing looks like.
 
-GIF testing direction
+![Animation of direction block in Scratch editor](images/direction.gif)
 --- /task ---
 
 --- task ---

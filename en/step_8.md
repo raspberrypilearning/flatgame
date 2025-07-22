@@ -1,27 +1,28 @@
 ## Add sound
 
-*not edited vid yet*
-
-Add sound to make it look a bit more life like. Test it out again and think of a sound that your background might make when the player sprite is walking accross it. 
+Test it out and think of a sound that your background might make when the player sprite is walking accross it. 
 
 For example, a background of leaves might make a crunch sound. 
 
 --- task ---
-On the sounds tab click choose a sound.
+Open the sounds tab and click choose a sound.
+
+![Screenshot of sound tab in Scratch editor](images/sound-tab.png)
+--- /task ---
 
 Hover over the play button to try out sounds until you find one that would work for a walking sound. Shorter sounds work best. 
 
-When you have decided click on the sound to select it
+--- task ---
+Click on the sound to select it.
 
-IMAGE
+![Screenshot of sound in Scratch editor](images/choose-sound.png)
 --- /task ---
 
 --- task ---
-The sounds are quite loud.
+Edit the sound to make it softer or faster by clicking the icons in the editor
 
-Make the sound quieter by clicking the Softer icon
 
-IMAGE
+![Screenshot of sound editor in Scratch editor](images/edit-sound.png)
 --- /task ---
 
 --- task ---

@@ -2,7 +2,7 @@
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/r16wfxUmBhA?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/D0fkT2GK1ao?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
 </iframe>
 </div><br>
 </html>
@@ -46,13 +46,13 @@ When you have decided on what your flatgame is about you can start making artwor
 --- task ---
 Draw or craft characters, backgrounds, textures, words, or anything else related to your theme. 
 
-ADD GIF - drawing / making
+![An A$ paper with doodles and sketches. Someone is drawing](images/drawing.png)
 --- /task ---
 
 --- task ---
 With a tablet or phone take photos of your artwork. This will be used for your game, try to take picture in focus and in a light room 📸
 
-ADD GIF - taking photos
+![Taking a photo through a mobile phone of had drawn images](images/photo.png)
 --- /task ---
 
 You can also take photos of things around the room that can be used as a background, texture or sprites. These give the flatgame a cut-out look.

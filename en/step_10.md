@@ -1,7 +1,4 @@
 ## Challenge
-
-*not edited vid yet*
-
 Flatgames are a great way to be creative and try new things out with scratch. Try some of these challenges - and don't worry about making it neat!
 
 Here are some ideas - have a play! What else can you add? 
@@ -18,7 +15,7 @@ In the costume tab, add the text you want.
 
 Move the text so it is easy to read, somewhere near the centre.
 
-SCREEN RECORDING
+![Screenshot of making start-text Scratch editor](images/start-text.png)
 --- /task ---
 
 --- task ---
@@ -70,9 +67,8 @@ Select the chosen artwork sprite and duplicate the costume.
 
 Move the new costume very slightly, this will be the next sequance in the animation
 
-SCREEN RECORD
+![Screenshot of making sprite animation in Scratch editor](images/animate.png)
 --- /task ---
-
 
 --- task ---
 Make a new green flag event and add this code:
