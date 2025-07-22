@@ -48,11 +48,11 @@ when flag clicked
 go to [front v] layer
 forever
 if <key (left arrow v) pressed> then
-point in direction (130)
+point in direction (90)
 next costume
 end
 if <key (right arrow v) pressed> then
-point in direction (-130)
+point in direction (-90)
 next costume
 end
 +if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then

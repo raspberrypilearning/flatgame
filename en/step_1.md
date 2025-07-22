@@ -5,7 +5,7 @@ They have very simple game controls - where a player moves around a screen to ex
 
 Here is a flatgame about a beach:
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1200050605/" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1200050605/embed?autostart=false"" frameborder="0"></iframe>
 </div>
 And a pencil case...
 <div class="scratch-preview">
