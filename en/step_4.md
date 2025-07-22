@@ -30,7 +30,7 @@ IMAGE
 --- /task ---
 
 --- task ---
-Rotate and resize the photo so that it covers the XXXpaint area
+Rotate and resize the photo so that it covers the paint area
 
 SCREEN RECORD
 --- /task ---

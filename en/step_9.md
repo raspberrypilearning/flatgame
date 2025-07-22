@@ -42,7 +42,7 @@ set y to (move y)
 
 
 --- task ---
-Resize and position the image. You can zoom in and out with the - and +. 
+Resize and position the sprite. You can zoom in and out with the - and +. 
 
 For best resaults position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
 

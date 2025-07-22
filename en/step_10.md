@@ -2,7 +2,7 @@
 
 *not edited vid yet*
 
-Flatgames are a great way to be creative and try new things out with scratch. Try some of these challenges for next steps - and don't worry about making it neat!
+Flatgames are a great way to be creative and try new things out with scratch. Try some of these challenges - and don't worry about making it neat!
 
 Here are some ideas - have a play! What else can you add? 
 
@@ -40,7 +40,7 @@ In the start text code add the following blocks to show and hide when the flag i
 Flatgames are great when they are full of art! 
 
 --- task ---
-Duplicate the artwork sprite and name it artwork 2
+Duplicate the artwork 1 sprite and name it artwork 2
 --- /task ---
 
 --- task ---
@@ -53,7 +53,7 @@ You can think about where you want to place the new artwork sprites - are they a
 It can be fun for the player spite to walk under and over the artwork, change some of the layers to do this. 
 
 --- task ---
-In the artwork sprite add the layer order block under the green flag event.
+In the artwork sprite add the layer block to the green flag event.
 
 ```blocks3
 +go to [front v] layer
