@@ -14,7 +14,7 @@ Open the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 --- task ---
 In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top.
 
-![Screenshot of cosutme upload icon in Scratch editor](images/uploaad.png)
+![Screenshot of cosutme upload icon in Scratch editor](images/upload.png)
 --- /task ---
 
 --- task ---
