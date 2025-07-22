@@ -18,7 +18,7 @@ Emailing them to yourself or a club mentor
 --- /task ---
 
 --- task ---
-Using cloud storage (such as Drive or Onedrive
+Using cloud storage (such as Drive or Onedrive)
 --- /task ---
 
 Once you have your photos, make a note of where they are stored.
