@@ -30,7 +30,7 @@ Add sound blocks to your code:
 ```blocks3
 when flag clicked
 go to [front v] layer
-+forever
+forever
 if <key (left arrow v) pressed> then
 next costume
 +play sound (Wood Tap v) until done

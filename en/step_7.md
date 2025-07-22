@@ -45,7 +45,7 @@ GIF testing direction
 --- task ---
 Now use an `operator`{:class="operators"} block to add the up and down keys. These don't need a direction, so the code is the same for both up and down.
 
-```
+```blocks3
 when flag clicked
 go to [front v] layer
 forever

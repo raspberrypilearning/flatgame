@@ -37,9 +37,8 @@ set y to (move y)
 
 
 --- task ---
-Use `if`{:class="block3control"} blocks to sense when each arrow XXXkey is pressed. For each arrow key add a `change`{:class="block3variables"} block this will change move x or move y by 1 or -1 to move the background.
+Add `if`{:class="block3control"} blocks to `sense`{:class="block3sensing"} when each arrow key is pressed. For each arrow key add a `change`{:class="block3variables"} block this will change move x or move y by 1 or -1.
 
-This is the code to add
 
 ```blocks3
 when flag clicked

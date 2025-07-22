@@ -9,5 +9,5 @@ Once you have your photos, make a note of where they are stored.
 
 You could write down the name of the folder they are in to help your remember. 
 
-ADD GIF - files?
+AMight be worth listing some of the simpler ways you can send files from mobile devices - USB, bluetooth, whatsapp in browser, email them to yourself, some sort of cloud storage (Drive/onedrive)? 
 --- /task ---
