@@ -1,10 +1,10 @@
 ## Get photos to your device
 
-You'll need to get photos form the phone or tablet into the device you will craete with.
+You'll need to get photos from the phone or tablet into the device you will create with.
 
 This is different for everyone - you might need to get your club leader to help you.
 
-Some simple ways to share files from mobile deives you could try are:
+Some simple ways to share files from mobile devices you could try are:
 
 --- task ---
 Using a USB cable

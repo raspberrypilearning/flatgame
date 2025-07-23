@@ -18,7 +18,7 @@ Use one of your drawings or a photo you have taken
 --- task ---
 Remove any background you don't want - this has a collage effect so don't be too neat!
 
-![Screenshot of rease tool in Scratch editor](images/erase.png)
+![Screenshot of erease tool in Scratch editor](images/erase.png)
 --- /task ---
 
 --- task ---
@@ -45,7 +45,7 @@ set y to (move y)
 --- task ---
 Resize and position the sprite. You can zoom in and out with the - and +. 
 
-For best resaults position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
+For best results position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
 --- /task ---
 
 

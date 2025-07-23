@@ -44,7 +44,7 @@ Or make a flatgame theme based on right where you are. 👀 Look around the room
 When you have decided on what your flatgame is about you can start making artwork. Remember that flagames are messy and quick, and don’t need to make sense! Just get started and make way more than you need!
 
 --- task ---
-Draw or craft characters, backgrounds, textures, words, or anything else related to your theme. 
+Draw or craft characters, backgrounds, textures, words, or anything else related to your code club. 
 
 ![An A$ paper with doodles and sketches. Someone is drawing](images/drawing.png)
 --- /task ---

@@ -10,7 +10,7 @@
 The player sprite explores the flatgame, checking out the different drawings and textures.
 
 --- task ---
-Upload a new sprite and rename it player.
+Upload a new sprite, pick one of your photos, and rename it player.
 --- /task ---
 
 --- task ---

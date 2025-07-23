@@ -1,6 +1,6 @@
 ## Add sound
 
-Test it out and think of a sound that your background might make when the player sprite is walking accross it. 
+Test it out and think of a sound that your background might make when the player sprite is walking across it. 
 
 For example, a background of leaves might make a crunch sound. 
 

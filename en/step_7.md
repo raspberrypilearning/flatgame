@@ -35,7 +35,7 @@ end
 Test your code! Press the green flag and the player sprite should move when you use the left and right keys.
 
 --- task ---
-Your direction might be different - test out a few angles with the direction block until it looks like your srite is facing the right way as every sprite will be different depending on what the drawing looks like.
+Your direction might be different - test out a few angles with the direction block until it looks like your sprite is facing the right way as every sprite will be different depending on what the drawing looks like.
 
 ![Animation of direction block in Scratch editor](images/direction.gif)
 --- /task ---

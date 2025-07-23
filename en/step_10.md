@@ -61,11 +61,11 @@ In the artwork sprite add the layer block to the green flag event.
 You could animate some of the artwork to add movement to the flatgame.
 
 --- task ---
-Ddecide on which artwork you want to animate. 
+Decide on which artwork you want to animate. 
 
 Select the chosen artwork sprite and duplicate the costume. 
 
-Move the new costume very slightly, this will be the next sequance in the animation
+Move the new costume very slightly, this will be the next sequence in the animation
 
 ![Screenshot of making sprite animation in Scratch editor](images/animate.png)
 --- /task ---

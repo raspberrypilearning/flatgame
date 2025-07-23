@@ -1,7 +1,7 @@
 ## What you will make
 Flatgames are a cross between a video game and poetry. 
 
-They have very simple game controls - where a player moves around a screen to explpre artwork, drawings and cut-out collages. 
+They have very simple game controls - where a player moves around a screen to explore artwork, drawings and cut-out collages. 
 
 Here is a flatgame about a beach:
 <div class="scratch-preview">

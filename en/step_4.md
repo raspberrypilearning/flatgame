@@ -19,6 +19,7 @@ In the background sprite upload costume, choose one of your photos. Rename the s
 
 --- task ---
 Delete the placeholder costume, but make sure you DO NOT delete the zoom costume.
+![Screenshot of cosutme upload icon in Scratch editor](images/order.png)
 --- /task ---
 
 --- task ---
