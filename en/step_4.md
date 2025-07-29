@@ -12,24 +12,25 @@ Open the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 --- /task ---
 
 --- task ---
-In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top.
+In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
 
 ![Screenshot of cosutme upload icon in Scratch editor](images/upload.png)
 --- /task ---
 
 --- task ---
-Delete the placeholder costume, but make sure you DO NOT delete the zoom costume.
+Delete the placeholder costume, but make sure you **DO NOT** delete the zoom costume.
 ![Screenshot of cosutme upload icon in Scratch editor](images/order.png)
 --- /task ---
 
 --- task ---
-Click "Convert to vector"
+Click the purple "Convert to vector" button beneath the image editor. 
 
 ![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
-With the select tool rotate and resize the photo so that it covers the paint area.
+With the select tool, rotate and resize the photo so that it covers the paint area.
+![White cursor icon inside a purple square.](images/select_tool.png)
 --- /task ---
 
 
