@@ -23,19 +23,19 @@ Connect the devices: Plug one end into your phone or tablet and the other into t
 --- /task ---
 
 --- task ---
-Unlock your device: Most phones will ask for permission to allow file transfers. Choose File transfer or Media transfer (sometimes shown as MTP).
+Unlock your device: Most phones will ask for permission to allow file transfers. Choose `File transfer` or `Media transfer` (sometimes shown as MTP).
 --- /task ---
 
 --- task ---
-On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device listed as an external drive.
+On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device listed as an external drive in the list on the right.
 --- /task ---
 
 --- task ---
-Browse for your images: On most phones, navigate to the DCIM or Pictures folder.
+Browse for your images: On most phones, navigate to the `DCIM` or `Pictures` folder.
 --- /task ---
 
 --- task ---
-Copy the photos: Select the images you want. Copy them (right-click > Copy or Ctrl+C/Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g., Desktop or Downloads).
+Copy the photos: Select the images you want. Copy them (right-click > Copy or Ctrl+C/Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g., Desktop, Documents or Downloads).
 --- /task ---
 
 --- /collapse ---
