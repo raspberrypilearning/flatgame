@@ -6,7 +6,7 @@ This is different for everyone - you might need to get your club leader to help 
 
 Some simple ways to share files from mobile devices you could try are:
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -40,7 +40,7 @@ Copy the photos: Select the images you want. Copy them (right-click > Copy or Ct
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -67,7 +67,7 @@ Accept on your computer: You may need to confirm the transfer or choose a locati
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -97,7 +97,7 @@ Download the images: Find the email. Download the attachments and save them to a
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
