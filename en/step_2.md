@@ -77,7 +77,20 @@ Are there any books with some text or pictures that might look cool?
 What about larger things like furniture, or if you can go outdoors - plants and trees!
 --- /task ---
 
----- collapse ---
+You can use the following pictures if you don't have a camera, or create some of your own in the paint editor in Scratch!
+
+--- task ---
+To use the images in the collapse below, just right click (two-fingers on Mac) on the image you want to use and choose 'Save Image As'.
+![Context menu showing image options in a browser, with “Save Image As...” highlighted among choices like copy and search](images/saveas.png)
+--- /task ---
+
+--- task ---
+
+In the popup window, choose the folder you want to save the images to - something easy to get back to, like `Downloads`or `Documents` is good.
+![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)]
+--- /task ---
+
+--- collapse ---
 
 ---
 
@@ -114,3 +127,5 @@ title: No camera? Use these pictures!
 ![Grey chenille rug with raised textured tufts](images/tiles.jpeg)
 
 --- /collapse ---
+
+In the next step, upload your artwork to Scratch!
