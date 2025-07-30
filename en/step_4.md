@@ -14,12 +14,12 @@ Open the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 --- task ---
 In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
 
-![Screenshot of cosutme upload icon in Scratch editor](images/upload.png)
+![Screenshot of costume upload icon in Scratch editor](images/upload.png)
 --- /task ---
 
 --- task ---
 Delete the placeholder costume, but make sure you **DO NOT** delete the zoom costume.
-![Screenshot of cosutme upload icon in Scratch editor](images/order.png)
+![Screenshot of costume upload icon in Scratch editor](images/order.png)
 --- /task ---
 
 --- task ---
