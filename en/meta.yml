@@ -8,11 +8,17 @@ last_tested: "2025-01-01"
 steps:
   - title: What you will make
   - title: Make the artwork
+    completion:
+      - engaged
   - title: Get photos to your device
   - title: Adding background 
   - title: Scrolling 
   - title: Add a player sprite
   - title: Moving the player sprite
+    completion:
+      - internal
   - title: Add sound
   - title: Adding artwork!
   - title: Challenge
+    completion:
+      - external
