@@ -24,9 +24,9 @@ You'll need:
 - 📷 a phone or tablet to take photos
 - 👾 the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 
-<div style="background-color:#7cd88b; border:4px solid #41b653; padding:1.5rem; border-radius:12px; color:#061719; font-family:sans-serif;">
+<div style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: #e8fdf6; padding: 10px; color: #0faeb0; font-family: inherit;">
 <h3>Did you know?</h3>
-The original flatgame was made by Llaura McGee who is a game designer at [Dreamfeel](https://dreamfeel.ie/){:target="_blank"}. They started making flatgames to make video games look arty!
+The original flatgame was made by Llaura McGee who is a game designer at <a href="https://dreamfeel.ie/" target="_blank" style="color: #0faeb0; text-decoration: none;">Dreamfeel</a>. They started making flatgames to make video games look arty!
 </div>
 
 
