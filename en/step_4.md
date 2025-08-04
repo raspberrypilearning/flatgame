@@ -8,34 +8,34 @@
 </html>
 
 --- task ---
-Open the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
+1. Open the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 --- /task ---
 
 --- task ---
-In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
+2. In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
 
 ![Screenshot of costume upload icon in Scratch editor](images/upload.png)
 --- /task ---
 
 --- task ---
-Delete the placeholder costume, but make sure you **DO NOT** delete the zoom costume.
+3. Delete the placeholder costume, but make sure you **DO NOT** delete the zoom costume.
 ![Screenshot of costume upload icon in Scratch editor](images/order.png)
 --- /task ---
 
 --- task ---
-Click the purple "Convert to vector" button beneath the image editor. 
+4. Click the purple "Convert to vector" button beneath the image editor. 
 
 ![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
-With the select tool, rotate and resize the photo so that it covers the paint area.
+5. With the select tool, rotate and resize the photo so that it covers the paint area.
 ![White cursor icon inside a purple square.](images/select_tool.png)
 --- /task ---
 
 
 --- task ---
-In the starter code on your background sprite, change the pull-down menu in the `switch costumes`{:class="block3looks"} block to say background:
+6. In the starter code on your background sprite, change the pull-down menu in the `switch costumes`{:class="block3looks"} block to say background:
 
 ```blocks3
 when flag clicked

@@ -3,7 +3,7 @@
 To make a scrolling effect, the background sprite moves on the x axis (left to right) and y axis (up and down) when the keys are pressed.
 
 --- task ---
-Add these two blocks to the background code. They set the *move x* and *move y* `variables`{:class="block3variables"} to 0.
+1. Add these two blocks to the background code. They set the *move x* and *move y* `variables`{:class="block3variables"} to 0.
 
 ```blocks3
 when flag clicked
@@ -17,7 +17,7 @@ go to [back v] layer
 --- /task ---
 
 --- task ---
-Add a loop and set the x and y values of the background sprite to the *move x* and *move y* `variables`{:class="block3variables"}.
+2. Add a loop and set the x and y values of the background sprite to the *move x* and *move y* `variables`{:class="block3variables"}.
 
 ```blocks3
 when flag clicked
@@ -35,7 +35,7 @@ set y to (move y)
 
 
 --- task ---
-Add `if`{:class="block3control"} blocks to `sense`{:class="block3sensing"} when each arrow key is pressed. For each arrow key add a `change`{:class="block3variables"} block this will change move x or move y by 1 or -1.
+3. Add `if`{:class="block3control"} blocks to `sense`{:class="block3sensing"} when each arrow key is pressed. For each arrow key add a `change`{:class="block3variables"} block this will change move x or move y by 1 or -1.
 
 ```blocks3
 when flag clicked

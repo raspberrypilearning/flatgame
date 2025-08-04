@@ -10,29 +10,29 @@
 In this step you can get creative adding textures, drawings, text, or any other artwork that you want to complete your flatgame.
 
 --- task ---
-Upload a new sprite and name it "artwork 1"
+1. Upload a new sprite and name it "artwork 1"
 
 Use one of your drawings or a photo you have taken
 --- /task ---
 
 --- task ---
-Remove any background you don't want - this has a collage effect so don't be too neat!
+2. Remove any background you don't want - this has a collage effect so don't be too neat!
 
 ![Screenshot of erease tool in Scratch editor](images/erase.png)
 --- /task ---
 
 --- task ---
-Use the select tool and line up with the centre.
+3. Use the select tool and line up with the centre.
 ![Screenshot of paint edit tools in Scratch editor](images/rotate-art.png)
 --- /task ---
 
 --- task ---
-Convert to Vector
+4. Convert to Vector
 ![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
-Add this code so that the artwork sprite moves in the same way as the background.
+5. Add this code so that the artwork sprite moves in the same way as the background.
 
 ```blocks3
 +when flag clicked
@@ -43,14 +43,14 @@ set y to (move y)
 --- /task ---
 
 --- task ---
-Resize and position the sprite. You can zoom in and out with the - and +. 
+6. Resize and position the sprite. You can zoom in and out with the - and +. 
 
 For best results position the artwork sprite at the edges of the paint window, so that your player sprite can explore the artwork further.
 --- /task ---
 
 
 --- task ---
-Add text to tell the story of your artwork or images.
+7. Add text to tell the story of your artwork or images.
 
 This can be playful. You could:
 
@@ -62,4 +62,8 @@ Change the colours, size and position of the text.
 ![Screenshot of text in Scratch editor](images/text.png)
 --- /task ---
 
-Test it out! Your artwork sprite should move with the background.
+--- task ---
+
+8. **Test it out!** Your artwork sprite should move with the background.
+
+--- /task ---

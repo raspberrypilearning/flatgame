@@ -42,7 +42,7 @@ If you can't use a camera, there are some images below you can use.
 --- /task ---
 
 --- task ---
-You can also take photos of things around the room that can be used as a background or sprites. These give the flatgame a cut-out look.
+4. You can also take photos of things around the room that can be used as a background or sprites. These give the flatgame a cut-out look.
 
 **Remember: Don't** take photos of people faces or identifying features.
 
@@ -55,18 +55,18 @@ You can also take photos of things around the room that can be used as a backgro
 - What about larger things like furniture, or if you can go outdoors - plants and trees
 --- /task ---
 
+## No camera? No problem!
+
 You can use the following pictures if you don't have a camera, or create some of your own in the paint editor in Scratch!
 
 --- task ---
-To use the images in the Drive folder, just [follow this link](https://drive.google.com/drive/folders/1zZ06mkskqer21uXyxuO8Hht9szpn9cYc){:target="_blank"} and click `Download all` at the top right of the window that opens.
+1. To use the images in the Drive folder, just [follow this link](https://drive.google.com/drive/folders/1zZ06mkskqer21uXyxuO8Hht9szpn9cYc){:target="_blank"} and click `Download all` at the top right of the window that opens.
 ![Google Drive folder named flatgame with two subfolders, Textures and Things, and a download all button.](images/downloadall.png)
 --- /task ---
 
 --- task ---
-
-In the popup window, choose the folder you want to save the images to - something easy to get back to, like `Downloads`or `Documents` is good. Call the file `flatgame` and cilck `Save`.
+2. In the popup window, choose the folder you want to save the images to - something easy to get back to, like `Downloads`or `Documents` is good. Call the file `flatgame` and cilck `Save`.
 ![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)
 --- /task ---
-
 
 In the next step, upload your artwork to Scratch!
