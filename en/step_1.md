@@ -20,9 +20,9 @@ And one about a card game!
 To make a flatgame you start by crafting and making hand-drawn artwork for the game. 
 
 You'll need: 
-🎨 drawing or crafting materials (pens, paper, scissors)
-📷 a phone or tablet to take photos
-👾 the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
+- 🎨 drawing or crafting materials (pens, paper, scissors)
+- 📷 a phone or tablet to take photos
+- 👾 the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 
 
 ### Did you know?
