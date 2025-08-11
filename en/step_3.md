@@ -133,7 +133,7 @@ title: Import via Club starter project
 
 --- task ---
 
-1. Club Mentors take all the photos using their phone, capturing creators work and also any additional images they want that represent the club.
+1. Club Mentors take all the photos using their phone, capturing all creators work and also any additional images they want that represent the club.
 --- /task ---
 
 --- task ---
@@ -141,7 +141,7 @@ title: Import via Club starter project
 --- /task ---
 
 --- task ---
-3. Upload all the images for all creators on to the starter project.
+3. They can upload all the images for all creators on to the starter project.
 --- /task ---
 
 --- task ---
