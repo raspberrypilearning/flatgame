@@ -16,13 +16,12 @@ First decide what your flatgame is about.
 --- task ---
 1. Chose one of these ideas or ask your club leader if they have some suggestions:
 
-- [ ] Your favorite thing to do at code club
 - The first thing you see when you arrive at Code Club every week
-[ ] A tool you use all the time at code club
-- [ ] The best game ever made at code club!
-- [ ] If you have an outdoor space - is there something inspiring about it? 
-- [ ] Your journey to or from code club
-- [ ] Or make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it? 
+- A tool you use all the time at code club
+- The best game ever made at code club!
+- If you have an outdoor space - is there something inspiring about it? 
+- Your journey to or from code club
+- Or make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it? 
 --- /task ---
 
 When you have decided on what your flatgame is about you can start making artwork. Remember that flagames are messy and quick, and don’t need to make sense! Just get started and make way more than you need!
