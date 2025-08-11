@@ -123,11 +123,6 @@ title: Using cloud storage (such as Drive or Onedrive)
 
 --- /collapse ---
 
-
-
-One thing that might help mentors is that they could take all the photos using their phone. They could then open the starter project themselves, import all the images for all their creators, and then share their remix with the kids. Then the kids can remix and delete the images that are not their own, and edit their ones. The mentor could also add images that they wanted in their that represent their club.
-
-
 --- collapse ---
 
 ---
