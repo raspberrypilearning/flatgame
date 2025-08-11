@@ -103,7 +103,6 @@ title: Emailing photos to yourself or a Club Mentor
 
 title: Using cloud storage (such as Drive or Onedrive)
 
-
 ---
 
 --- task ---
@@ -120,6 +119,38 @@ title: Using cloud storage (such as Drive or Onedrive)
 
 --- task ---
 4. Download the images: Find the folder where you saved them. Download to your computer.
+--- /task ---
+
+--- /collapse ---
+
+
+
+One thing that might help mentors is that they could take all the photos using their phone. They could then open the starter project themselves, import all the images for all their creators, and then share their remix with the kids. Then the kids can remix and delete the images that are not their own, and edit their ones. The mentor could also add images that they wanted in their that represent their club.
+
+
+--- collapse ---
+
+---
+
+title: Import via Club starter project 
+
+---
+
+--- task ---
+
+1. Club Mentors take all the photos using their phone, capturing creators work and also any additional images they want that represent the club.
+--- /task ---
+
+--- task ---
+2. Mentors open the starter project on their device.
+--- /task ---
+
+--- task ---
+3. Upload all the images for all creators on to the starter project.
+--- /task ---
+
+--- task ---
+5. Creators can then remix the project, delete any images that are not their own, and edit the ones that belong to them.
 --- /task ---
 
 --- /collapse ---
