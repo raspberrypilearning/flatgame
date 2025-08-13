@@ -23,7 +23,7 @@
 --- /task ---
 
 --- task ---
-4. Click the purple "Convert to vector" button beneath the image editor. 
+4. Click the purple 'Convert to vector' button beneath the image editor. 
 
 ![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
 --- /task ---
