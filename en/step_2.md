@@ -7,32 +7,32 @@
 </div><br>
 </html>
 
-You start by crafting and making hand-drawn artwork based on your code club.
+You start by crafting and making hand-drawn artwork based on your Code Club.
 
 This is your chance to make something fun or imaginative and share what Code Club means to you.
 
 
 --- task ---
-1. Decide what your flatgame is about. Chose one of these ideas or ask your club leader if they have some suggestions:
+1. Decide what your flatgame is about. Choose one of these ideas or ask your club leader if they have some suggestions:
 
-- The first thing you see when you arrive at Code Club every week
-- A tool you use all the time at code club
-- The best game ever made at code club!
-- If you have an outdoor space - is there something inspiring about it? 
-- Your journey to or from code club
-- Or make a flatgame theme based on right where you are. 👀 Look around the room you are in, what do you notice, what is interesting or different about it? 
+- The first thing you see when you arrive at Code Club every week.
+- A tool you use all the time at Code Club.
+- The best game ever made at Code Club!
+- If you have an outdoor space — is there something inspiring about it? 
+- Your journey to or from Code Club.
+- A theme based on right where you are. 👀 Look around the room you are in. What do you notice, what is interesting or different about it? 
 --- /task ---
 
-When you have decided on what your flatgame is about you can start making artwork. Remember that flagames are messy and quick, and don’t need to make sense! Just get started and make way more than you need!
+When you have decided what your flatgame is about, you can start making artwork. Remember that flagames are messy and quick, and don’t need to make sense. Just get started and make way more than you need!
 
 --- task ---
-1. Draw or craft characters, backgrounds, textures, words, or anything else related to your idea. 
+2. Draw or craft characters, backgrounds, textures, words, or anything else related to your idea. 
 
 ![An A4 paper with doodles and sketches. Someone is drawing](images/drawing.png)
 --- /task ---
 
 --- task ---
-3. With a tablet or phone take photos of your artwork. This will be used for your game, so try to take a clear picture in a light room. 📸
+3. With a tablet or phone, take photos of your artwork. This will be used for your game, so try to take a clear picture in a light room. 📸
 
 ![Taking a photo through a mobile phone of had drawn images](images/photo.png)
 
@@ -40,31 +40,31 @@ If you can't use a camera, there are some images below you can use.
 --- /task ---
 
 --- task ---
-1. You can also take photos of things around the room that can be used as a background or sprites. These give the flatgame a cut-out look.
+4. You can also take photos of things around the room that can be used as a background or sprites. These give the flatgame a cut-out look.
 
 **Remember: Don't** take photos of people faces or identifying features.
 
-- Look around for any interesting textures or patterns, take photos of details you like. 
+- Look around for any interesting textures or patterns, and take photos of details you like. 
 
-- Could you make a Raspberry Pi or Micro Bit into a sprite? What else could you find?
+- Could you make a Raspberry Pi or BBC micro:bit into a sprite? What else could you find?
 
 - Are there any books with some text or pictures that might look cool?
 
-- What about larger things like furniture, or if you can go outdoors - plants and trees
+- What about larger things like furniture, or — if you can go outdoors — plants and trees?
 --- /task ---
 
 ## No camera? No problem!
 
-You can use the following pictures if you don't have a camera, or create some of your own in the paint editor in Scratch!
+You can use the following pictures if you don't have a camera, or create some of your own in the paint editor in Scratch.
 
 --- task ---
 1. To use the images in the Drive folder, just [follow this link](https://drive.google.com/drive/folders/1zZ06mkskqer21uXyxuO8Hht9szpn9cYc){:target="_blank"} and click `Download all` at the top right of the window that opens.
 
-![Google Drive folder named flatgame with two subfolders, Textures and Things, and a download all button.](images/downloadall.png)
+![Google Drive folder named flatgame with two subfolders, Textures and Things, and a 'Download all' button.](images/downloadall.png)
 --- /task ---
 
 --- task ---
-1. In the popup window, choose the folder you want to save the images to - something easy to get back to, like `Downloads`or `Documents` is good. Call the file `flatgame` and cilck `Save`.
+2. In the pop-up window, choose the folder you want to save the images to — something easy to get back to, like `Downloads`or `Documents` is good. Call the file `flatgame` and cilck `Save`.
 
 ![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)
 --- /task ---
