@@ -2,7 +2,7 @@
 
 You'll need to get photos from the phone or tablet into the device you will create with. (If you used downloaded images, you can skip this step!)
 
-This is different for everyone - you might need to get your club leader to help you.
+This is different for everyone — you might need to get your club leader to help you.
 
 Some simple ways to share files from mobile devices you could try are:
 
@@ -35,7 +35,7 @@ title: Transferring photos using a USB cable
 --- /task ---
 
 --- task ---
-6. Copy the photos: Select the images you want. Copy them (right-click > Copy or Ctrl+C/Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g., Desktop, Documents or Downloads).
+6. Copy the photos: Select the images you want. Copy them (right-click > Copy or Ctrl+C/Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g., Desktop, Documents, or Downloads).
 --- /task ---
 
 --- /collapse ---
@@ -71,7 +71,7 @@ title: Transferring photos using Bluetooth
 
 ---
 
-title: Emailing photos to yourself or a Club Mentor
+title: Emailing photos to yourself or a club mentor
 
 ---
 
@@ -110,7 +110,7 @@ title: Using cloud storage (such as Drive or Onedrive)
 --- /task ---
 
 --- task ---
-2. Upload your images: Open the app. Tap Upload or +, then choose Photos or Files. Select the image(s) and upload.
+2. Upload your images: Open the app. Tap 'Upload' or +, then choose 'Photos' or 'Files'. Select the image(s) and upload.
 --- /task ---
 
 --- task ---
@@ -127,13 +127,13 @@ title: Using cloud storage (such as Drive or Onedrive)
 
 ---
 
-title: Import via Club starter project 
+title: Import via club starter project 
 
 ---
 
 --- task ---
 
-1. Club Mentors take all the photos using their phone, capturing all creators work and also any additional images they want that represent the club.
+1. Club mentors take all the photos using their phone, capturing all creators' work and also any additional images they want that represent the club.
 --- /task ---
 
 --- task ---
@@ -141,7 +141,7 @@ title: Import via Club starter project
 --- /task ---
 
 --- task ---
-3. They can upload all the images for all creators on to the starter project.
+3. They can upload all the images for all creators to the starter project.
 --- /task ---
 
 --- task ---
