@@ -1,6 +1,6 @@
 ## Scrolling 
 
-To make a scrolling effect, the background sprite moves on the x axis (left to right) and y axis (up and down) when the keys are pressed. You will use the *move x* and *move y* `variables`{:class="block3variables"} which are already in the starter project.
+To make a scrolling effect, the background sprite moves on the x axis (left to right) and y axis (up and down) when the keys are pressed. You will use the *move x* and *move y* `variables`{:class="block3variables"}, which are already in the starter project.
 
 --- task ---
 1. Add these two blocks to the background code. They set the *move x* and *move y* `variables`{:class="block3variables"} to 0.
@@ -35,7 +35,7 @@ set y to (move y)
 
 
 --- task ---
-3. Add `if`{:class="block3control"} blocks to `sense`{:class="block3sensing"} when each arrow key is pressed. For each arrow key add a `change`{:class="block3variables"} block this will change move x or move y by 1 or -1.
+3. Add `if`{:class="block3control"} blocks to `sense`{:class="block3sensing"} when each arrow key is pressed. For each arrow key, add a `change`{:class="block3variables"} block. This will change move x or move y by 1 or -1.
 
 ```blocks3
 when flag clicked
@@ -63,4 +63,4 @@ end
 ```
 --- /task ---
 
-Test it out! The background sprite should move around when you press the arrow keys. If it seems a bit slow you can increase the move numbers to make it faster.
+Test it out! The background sprite should move around when you press the arrow keys. If it seems a bit slow, you can increase the move numbers to make it faster.
