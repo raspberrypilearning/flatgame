@@ -10,25 +10,25 @@
 The player sprite explores the flatgame, checking out the different drawings and textures.
 
 --- task ---
-1. Upload a new sprite, pick one of your photos, and rename it player.
+1. Upload a new sprite, pick one of your photos, and rename it 'player'.
 --- /task ---
 
 --- task ---
 2. Go to the costumes tab and edit the image. Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
 
-This doesn't have to be perfect - flatgames have a cutout collage effect, so it can be roughly done.
+This doesn't have to be perfect — flatgames have a cutout collage effect, so it can be roughly done.
 
 ![Animation of erasor tool with joker card in Scratch editor](images/player.gif)
 --- /task ---
 
 --- task ---
-3. With the select tool drag over the image to select all. Rotate and centre the image by lining up the cross.
+3. With the select tool, drag over the image to select all. Rotate and centre the image by lining up the cross.
 
 ![Blue select line around card in Scratch editor](images/centre.png)
 --- /task ---
 
 --- task ---
-4. Convert to Vector
+4. Convert to vector
 
 ![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
 --- /task ---
