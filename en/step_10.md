@@ -10,7 +10,7 @@ Let people know the title of your flatgame and how to play
 
 - [ ] Make a paint sprite and call it "start text"
 
-- [ ] In the costume tab, add the text you want
+- [ ] In the Costume tab, add the text you want
 
 - [ ] Move the text so it is easy to read, somewhere near the centre:
 
@@ -37,17 +37,17 @@ Flatgames are great when they are full of art!
 
 - [ ] Duplicate the artwork 1 sprite and name it artwork 2
 
-- [ ] Upload a new costume and edit it in the same way as the artwork you made earlier.
+- [ ] Upload a new costume and edit it in the same way as the artwork you made earlier
 
-You can think about where you want to place the new artwork sprites - are they all in a line, or spread out?
+You can think about where you want to place the new artwork sprites — are they all in a line, or spread out?
 --- /task ---
 
 --- task ---
 ### Change layer of artworks
-It can be fun for the player spite to walk under and over the artwork, change some of the layers to do this. 
+It can be fun for the player sprite to walk under and over the artwork — change some of the layers to do this. 
 
 
-1. In the artwork sprite add the layer block to the green flag event.
+1. In the artwork sprite, add the layer block to the green flag event.
 
 ```blocks3
 +go to [front v] layer
@@ -59,11 +59,11 @@ It can be fun for the player spite to walk under and over the artwork, change so
 ### Animate the artwork
 You could animate some of the artwork to add movement to the flatgame.
 
-- [ ] Decide on which artwork you want to animate. 
+- [ ] Decide on which artwork you want to animate.
 
-- [ ] Select the chosen artwork sprite and duplicate the costume. 
+- [ ] Select the chosen artwork sprite and duplicate the costume.
 
-- [ ] Move the new costume very slightly, this will be the next sequence in the animation:
+- [ ] Move the new costume very slightly. This will be the next sequence in the animation:
 
 ![Screenshot of making sprite animation in Scratch editor](images/animate.png)
 
