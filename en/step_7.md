@@ -3,7 +3,7 @@
 The player sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
 
 --- task ---
-1. When the game starts you want the player sprite to be at the front. 
+1. When the game starts, you want the player sprite to be at the front. 
 
 In the player sprite code tab, add a layer block when the flag is clicked:
 
@@ -39,7 +39,7 @@ end
 
 
 --- task ---
-4. Your direction might be different - test out a few angles with the direction block until it looks like your sprite is facing the right way as every sprite will be different depending on what the drawing looks like.
+4. Your direction might be different — test out a few angles with the direction block until it looks like your sprite is facing the right way, as every sprite will be different depending on what the drawing looks like.
 
 ![Animation of direction block in Scratch editor](images/direction.gif)
 --- /task ---
