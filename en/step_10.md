@@ -1,7 +1,7 @@
 ## Challenge
-Flatgames are a great way to be creative and try new things out with scratch. Try some of these challenges - and don't worry about making it neat!
+Flatgames are a great way to be creative and try new things out with Scratch. Try some of these challenges — and don't worry about making it neat!
 
-Here are some ideas - have a play! What else can you add? 
+Here are some ideas — have a play! What else can you add? 
 
 --- task ---
 ### Make start text
@@ -10,7 +10,7 @@ Let people know the title of your flatgame and how to play
 
 - [ ] Make a paint sprite and call it "start text"
 
-- [ ] In the costume tab, add the text you want.
+- [ ] In the costume tab, add the text you want
 
 - [ ] Move the text so it is easy to read, somewhere near the centre:
 
