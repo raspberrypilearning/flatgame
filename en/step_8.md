@@ -5,7 +5,7 @@ Test it out and think of a sound that your background might make when the player
 For example, a background of leaves might make a crunch sound. 
 
 --- task ---
-1. Open the sounds tab and click choose a sound.
+1. Open the 'Sounds' tab and click 'Choose a sound'.
 
 ![Screenshot of sound tab in Scratch editor](images/sound-tab.png)
 Hover over the play button to try out sounds until you find one that would work for a walking sound. Shorter sounds work best. 
@@ -19,7 +19,7 @@ Hover over the play button to try out sounds until you find one that would work 
 --- /task ---
 
 --- task ---
-3. Edit the sound to make it softer or faster by clicking the icons in the editor
+3. Edit the sound to make it softer or faster by clicking the icons in the editor.
 
 
 ![Screenshot of sound editor in Scratch editor](images/edit-sound.png)
@@ -49,6 +49,6 @@ end
 
 --- task ---
 
-5. **Test it again** - how does the sound work out? Is the direction ok? If you need to tweak volume or direction you can go back and change it in your code.
+5. **Test it again** — how does the sound work out? Is the direction okay? If you need to tweak volume or direction, you can go back and change it in your code.
 
 --- /task ---
