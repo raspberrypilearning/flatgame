@@ -1,10 +1,10 @@
 ## Get photos to your device
 
-You'll need to get photos from the phone or tablet into the device you will create with. (If you used downloaded images, you can skip this step!)
+You'll need to get photos from your phone or tablet onto the device you'll use to create the flatgame. (If you're using downloaded images, you can skip this step!)
 
 This is different for everyone — you might need to get your club leader to help you.
 
-Some simple ways to share files from mobile devices you could try are:
+Some simple ways of sharing files from mobile devices you could try are:
 
 --- collapse ---
 
@@ -23,11 +23,11 @@ title: Transferring photos using a USB cable
 --- /task ---
 
 --- task ---
-3. Unlock your device: Most phones will ask for permission to allow file transfers. Choose `File transfer` or `Media transfer` (sometimes shown as MTP).
+3. Unlock your device: Most phones will ask for permission to allow file transfers. Choose `File transfer` or `Media transfer` (sometimes shown as MTP, or media transfer protocol).
 --- /task ---
 
 --- task ---
-4. On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device listed as an external drive in the list on the right.
+4. Open the browser: On your computer, open the file browser (e.g., File Explorer, Finder). Look for your device — it will hopefully be listed as an external drive in the list on the right.
 --- /task ---
 
 --- task ---
@@ -35,7 +35,7 @@ title: Transferring photos using a USB cable
 --- /task ---
 
 --- task ---
-6. Copy the photos: Select the images you want. Copy them (right-click > Copy or Ctrl+C/Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g., Desktop, Documents, or Downloads).
+6. Copy the photos: Select the images you want. Copy them (right-click > Copy, Ctrl+C, or Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g. Desktop, Documents, or Downloads).
 --- /task ---
 
 --- /collapse ---
