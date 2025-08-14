@@ -10,19 +10,19 @@
 The player sprite explores the flatgame, checking out the different drawings and textures.
 
 --- task ---
-1. Upload a new sprite, pick one of your photos, and rename it 'player'.
+1. Upload a new sprite. Pick one of your photos, and rename it "player".
 --- /task ---
 
 --- task ---
-2. Go to the costumes tab and edit the image. Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
+2. Go to the Costumes tab and edit the image. Use the eraser tool to remove any part of the image you don't want. Change the size of the eraser tool for smaller details.
 
 This doesn't have to be perfect — flatgames have a cutout collage effect, so it can be roughly done.
 
-![Animation of erasor tool with joker card in Scratch editor](images/player.gif)
+![Animation of eraser tool with joker card in Scratch editor](images/player.gif)
 --- /task ---
 
 --- task ---
-3. With the select tool, drag over the image to select all. Rotate and centre the image by lining up the cross.
+3. With the select tool, drag over the image to select it. Rotate and centre the image by lining up the cross.
 
 ![Blue select line around card in Scratch editor](images/centre.png)
 --- /task ---
@@ -30,7 +30,7 @@ This doesn't have to be perfect — flatgames have a cutout collage effect, so i
 --- task ---
 4. Convert to vector
 
-![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
+![Screenshot of the 'Convert to Vector' icon in Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
@@ -38,7 +38,7 @@ This doesn't have to be perfect — flatgames have a cutout collage effect, so i
 
 It should be quite small so that there is plenty of room on the stage around it.
 
-![Animated screenshot of changing size of sprite in Scratch editor](images/size.gif)
+![Animated screenshot of changing the size of a sprite in the Scratch editor](images/size.gif)
 --- /task ---
 
 --- task ---
@@ -46,6 +46,6 @@ It should be quite small so that there is plenty of room on the stage around it.
 
 Move the new costume and/or rotate it very slightly. This will animate it to make it look like it is moving.
 
-![Screenshot of costume sprites in Scratch editor](images/rotate.png)
+![Screenshot of costume sprites in the Scratch editor](images/rotate.png)
 --- /task ---
 
