@@ -1,4 +1,4 @@
-## Adding background 
+## Add a background 
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -18,7 +18,7 @@
 --- /task ---
 
 --- task ---
-3. Delete the placeholder costume, but make sure you **DO NOT** delete the zoom costume.
+3. Delete the placeholder costume, but make sure you **do not** delete the zoom costume.
 ![Screenshot of costume upload icon in Scratch editor](images/order.png)
 --- /task ---
 
