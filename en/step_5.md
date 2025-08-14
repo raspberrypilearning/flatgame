@@ -1,6 +1,6 @@
 ## Scrolling 
 
-To make a scrolling effect, the background sprite moves on the x axis (left to right) and y axis (up and down) when the keys are pressed. You will use the *move x* and *move y* `variables`{:class="block3variables"}, which are already in the starter project.
+To make a scrolling effect, the background sprite moves on the x axis (left to right) and y axis (up and down) when the arrow keys are pressed. You will use the *move x* and *move y* `variables`{:class="block3variables"}, which are already in the starter project.
 
 --- task ---
 1. Add these two blocks to the background code. They set the *move x* and *move y* `variables`{:class="block3variables"} to 0.
