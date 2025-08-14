@@ -11,14 +11,14 @@ steps:
     completion:
       - engaged
   - title: Get photos to your device
-  - title: Adding background 
+  - title: Add a background 
   - title: Scrolling 
   - title: Add a player sprite
-  - title: Moving the player sprite
+  - title: Move the player sprite
     completion:
       - internal
   - title: Add sound
-  - title: Adding artwork!
+  - title: Add artwork
   - title: Challenge
     completion:
       - external
