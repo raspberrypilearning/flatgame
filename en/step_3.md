@@ -10,7 +10,7 @@ Some simple ways of sharing files from mobile devices you could try are:
 
 ---
 
-title: Transferring photos using a USB cable
+title: Transferring images using a USB cable
 
 ---
 
@@ -27,7 +27,7 @@ title: Transferring photos using a USB cable
 --- /task ---
 
 --- task ---
-4. Open the browser: On your computer, open the file browser (e.g., File Explorer, Finder). Look for your device — it will hopefully be listed as an external drive in the list on the right.
+4. On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device — hopefully it will be listed as an external drive in the list on the right.
 --- /task ---
 
 --- task ---
@@ -35,7 +35,7 @@ title: Transferring photos using a USB cable
 --- /task ---
 
 --- task ---
-6. Copy the photos: Select the images you want. Copy them (right-click > Copy, Ctrl+C, or Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g. Desktop, Documents, or Downloads).
+6. Copy the images: Select the images you want. Copy them (right-click > Copy, Ctrl+C, or Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g. Desktop, Documents, or Downloads).
 --- /task ---
 
 --- /collapse ---
@@ -44,13 +44,13 @@ title: Transferring photos using a USB cable
 
 ---
 
-title: Transferring photos using Bluetooth
+title: Transferring images using Bluetooth
 
 
 ---
 
 --- task ---
-1. Turn on Bluetooth: Enable Bluetooth on both the phone or tablet and the computer. Make the devices discoverable if needed (check Bluetooth settings).
+1. Turn on Bluetooth: Enable Bluetooth on both your phone or tablet and the computer. Make the devices discoverable if needed (check Bluetooth settings).
 --- /task ---
 
 --- task ---
@@ -58,11 +58,11 @@ title: Transferring photos using Bluetooth
 --- /task ---
 
 --- task ---
-3. Send the images: On your phone or tablet, find the image(s) you want to send. Use the Share or Send option. Choose Bluetooth and select your computer from the list.
+3. Send the images: On your phone or tablet, find the images you want to send. Use the 'Share' or 'Send' option. Choose Bluetooth and select your computer from the list.
 --- /task ---
 
 --- task ---
-4. Accept on your computer: You may need to confirm the transfer or choose a location to save the file.
+4. Accept on your computer: You may need to confirm the transfer or choose a location to save the images.
 --- /task ---
 
 --- /collapse ---
@@ -71,7 +71,7 @@ title: Transferring photos using Bluetooth
 
 ---
 
-title: Emailing photos to yourself or a club mentor
+title: Emailing images to yourself or a club mentor
 
 ---
 
@@ -80,7 +80,7 @@ title: Emailing photos to yourself or a club mentor
 --- /task ---
 
 --- task ---
-2. Create a new email: Enter your own email address or your club mentor’s. Attach the image(s) using the paperclip or attach file icon.
+2. Create a new email: Enter your own email address or your club mentor’s email address. Attach the images using the paperclip icon or the attach file icon.
 --- /task ---
 
 --- task ---
@@ -92,7 +92,7 @@ title: Emailing photos to yourself or a club mentor
 --- /task ---
 
 --- task ---
-5. Download the images: Find the email. Download the attachments and save them to a known folder.
+5. Download the images: Find the email. Download the attachments and save them to a folder you can easily access.
 --- /task ---
 
 --- /collapse ---
@@ -101,16 +101,16 @@ title: Emailing photos to yourself or a club mentor
 
 ---
 
-title: Using cloud storage (such as Drive or Onedrive)
+title: Uploading images to cloud storage (such as Google Drive or Microsoft OneDrive)
 
 ---
 
 --- task ---
-1. Install or open the cloud storage app on your phone or tablet (e.g., Google Drive, OneDrive, Dropbox).
+1. Install or open the cloud storage app on your phone or tablet (e.g. Google Drive, OneDrive, Dropbox).
 --- /task ---
 
 --- task ---
-2. Upload your images: Open the app. Tap 'Upload' or +, then choose 'Photos' or 'Files'. Select the image(s) and upload.
+2. Upload your images: Open the app. Tap 'Upload' or +, then choose 'Photos' or 'Files'. Select the images and upload them.
 --- /task ---
 
 --- task ---
@@ -118,7 +118,7 @@ title: Using cloud storage (such as Drive or Onedrive)
 --- /task ---
 
 --- task ---
-4. Download the images: Find the folder where you saved them. Download to your computer.
+4. Download the images: Find the folder where you saved your images. Download them to your computer.
 --- /task ---
 
 --- /collapse ---
@@ -127,7 +127,7 @@ title: Using cloud storage (such as Drive or Onedrive)
 
 ---
 
-title: Import via club starter project 
+title: Importing images via club starter project 
 
 ---
 
