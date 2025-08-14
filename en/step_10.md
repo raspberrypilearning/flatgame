@@ -1,5 +1,5 @@
 ## Challenge
-Flatgames are a great way to be creative and try new things out with Scratch. Try some of these challenges — and don't worry about making it neat!
+Flatgames are a great way to be creative and try new things out with Scratch. Try some of these challenges, and don't worry about making it neat!
 
 Here are some ideas — have a play! What else can you add? 
 
