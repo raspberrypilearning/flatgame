@@ -66,7 +66,7 @@ You can use the following pictures if you don't have a camera, or create some of
 --- task ---
 2. In the pop-up window, choose the folder you want to save the images to — something easy to get back to, like `Downloads`or `Documents`, is good. Call the file `flatgame` and click `Save`.
 
-![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)
+![Save dialogue window on macOS showing the filename 'grass' being entered, with the Downloads folder selected as the destination.](images/popupsave.png)
 --- /task ---
 
 In the next step, you'll upload your artwork to Scratch!
