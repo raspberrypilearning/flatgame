@@ -1,11 +1,11 @@
-## Moving the player sprite
+## Move the player sprite
 
-The player sprite will animate to look like it is moving, but it is actually the background that is moving, which you set up earlier.
+The player sprite will animate to look like it is moving, but it will actually be the background that is moving, which you set up earlier.
 
 --- task ---
 1. When the game starts, you want the player sprite to be at the front. 
 
-In the player sprite code tab, add a layer block when the flag is clicked:
+In the player sprite's Code tab, add a layer block when the flag is clicked:
 
 ```blocks3
 +when flag clicked
