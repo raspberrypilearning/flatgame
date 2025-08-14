@@ -40,7 +40,7 @@ If you can't use a camera, there are some images below you can use.
 --- /task ---
 
 --- task ---
-4. You can also take photos of things around the room that can be used as a background or sprites. These give the flatgame a cut-out look.
+4. You can also take photos of things around the room that can be used as a background or sprites. These will give the flatgame a cut-out look.
 
 **Remember: Don't** take photos of people faces or identifying features.
 
