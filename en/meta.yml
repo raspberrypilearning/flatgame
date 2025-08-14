@@ -1,0 +1,24 @@
+title: This is our flatgame
+hero_image: images/banner.png
+description: default-project-template description
+version: 1
+listed: false
+copyedit: false
+last_tested: "2025-01-01"
+steps:
+  - title: What you will make
+  - title: Make the artwork
+    completion:
+      - engaged
+  - title: Get photos to your device
+  - title: Add a background 
+  - title: Scrolling 
+  - title: Add a player sprite
+  - title: Move the player sprite
+    completion:
+      - internal
+  - title: Add sound
+  - title: Add artwork
+  - title: Challenge
+    completion:
+      - external
