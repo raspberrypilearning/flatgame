@@ -15,27 +15,27 @@ title: Transferring images using a USB cable
 ---
 
 --- task ---
-1. Find the right cable: Use the charging cable that came with your device. Make sure it has a USB connector at the computer end.
+Find the right cable: Use the charging cable that came with your device. Make sure it has a USB connector at the computer end.
 --- /task ---
 
 --- task ---
-2. Connect the devices: Plug one end into your phone or tablet and the other into the computer.
+Connect the devices: Plug one end into your phone or tablet and the other into the computer.
 --- /task ---
 
 --- task ---
-3. Unlock your device: Most phones will ask for permission to allow file transfers. Choose `File transfer` or `Media transfer` (sometimes shown as MTP, or media transfer protocol).
+Unlock your device: Most phones will ask for permission to allow file transfers. Choose `File transfer` or `Media transfer` (sometimes shown as MTP, or media transfer protocol).
 --- /task ---
 
 --- task ---
-4. On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device — hopefully it will be listed as an external drive in the list on the right.
+On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device — hopefully it will be listed as an external drive in the list on the right.
 --- /task ---
 
 --- task ---
-5. Browse for your images: On most phones, navigate to the `DCIM` or `Pictures` folder.
+Browse for your images: On most phones, navigate to the `DCIM` or `Pictures` folder.
 --- /task ---
 
 --- task ---
-6. Copy the images: Select the images you want. Copy them (right-click > Copy, Ctrl+C, or Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g. Desktop, Documents, or Downloads).
+Copy the images: Select the images you want. Copy them (right-click > Copy, Ctrl+C, or Cmd+C). Paste them into a folder on your computer where you can find them easily (e.g. Desktop, Documents, or Downloads).
 --- /task ---
 
 --- /collapse ---
@@ -50,19 +50,19 @@ title: Transferring images using Bluetooth
 ---
 
 --- task ---
-1. Turn on Bluetooth: Enable Bluetooth on both your phone or tablet and the computer. Make the devices discoverable if needed (check Bluetooth settings).
+Turn on Bluetooth: Enable Bluetooth on both your phone or tablet and the computer. Make the devices discoverable if needed (check Bluetooth settings).
 --- /task ---
 
 --- task ---
-2. Pair the devices: On one device, search for the other and follow prompts to pair. Confirm the pairing code if asked.
+Pair the devices: On one device, search for the other and follow prompts to pair. Confirm the pairing code if asked.
 --- /task ---
 
 --- task ---
-3. Send the images: On your phone or tablet, find the images you want to send. Use the 'Share' or 'Send' option. Choose Bluetooth and select your computer from the list.
+Send the images: On your phone or tablet, find the images you want to send. Use the 'Share' or 'Send' option. Choose Bluetooth and select your computer from the list.
 --- /task ---
 
 --- task ---
-4. Accept on your computer: You may need to confirm the transfer or choose a location to save the images.
+Accept on your computer: You may need to confirm the transfer or choose a location to save the images.
 --- /task ---
 
 --- /collapse ---
@@ -76,23 +76,23 @@ title: Emailing images to yourself or a club mentor
 ---
 
 --- task ---
-1. Open your email app on your phone or tablet.
+Open your email app on your phone or tablet.
 --- /task ---
 
 --- task ---
-2. Create a new email: Enter your own email address or your club mentor’s email address. Attach the images using the paperclip icon or the attach file icon.
+Create a new email: Enter your own email address or your club mentor’s email address. Attach the images using the paperclip icon or the attach file icon.
 --- /task ---
 
 --- task ---
-3. Send the email.
+Send the email.
 --- /task ---
 
 --- task ---
-4. On your computer, open your email inbox.
+On your computer, open your email inbox.
 --- /task ---
 
 --- task ---
-5. Download the images: Find the email. Download the attachments and save them to a folder you can easily access.
+Download the images: Find the email. Download the attachments and save them to a folder you can easily access.
 --- /task ---
 
 --- /collapse ---
@@ -106,19 +106,19 @@ title: Uploading images to cloud storage (such as Google Drive or Microsoft OneD
 ---
 
 --- task ---
-1. Install or open the cloud storage app on your phone or tablet (e.g. Google Drive, OneDrive, Dropbox).
+Install or open the cloud storage app on your phone or tablet (e.g. Google Drive, OneDrive, Dropbox).
 --- /task ---
 
 --- task ---
-2. Upload your images: Open the app. Tap 'Upload' or +, then choose 'Photos' or 'Files'. Select the images and upload them.
+Upload your images: Open the app. Tap 'Upload' or +, then choose 'Photos' or 'Files'. Select the images and upload them.
 --- /task ---
 
 --- task ---
-3. On your computer: Open a web browser or desktop app for the same cloud storage service. Sign in with the same account.
+On your computer: Open a web browser or desktop app for the same cloud storage service. Sign in with the same account.
 --- /task ---
 
 --- task ---
-4. Download the images: Find the folder where you saved your images. Download them to your computer.
+Download the images: Find the folder where you saved your images. Download them to your computer.
 --- /task ---
 
 --- /collapse ---
@@ -133,19 +133,19 @@ title: Importing images via club starter project
 
 --- task ---
 
-1. Club mentors take all the photos using their phone, capturing all creators' work and also any additional images they want that represent the club.
+Club mentors take all the photos using their phone, capturing all creators' work and also any additional images they want that represent the club.
 --- /task ---
 
 --- task ---
-2. Mentors open the starter project on their device.
+Mentors open the starter project on their device.
 --- /task ---
 
 --- task ---
-3. They can upload all the images for all creators to the starter project.
+They can upload all the images for all creators to the starter project.
 --- /task ---
 
 --- task ---
-5. Creators can then remix the project, delete any images that are not their own, and edit the ones that belong to them.
+Creators can then remix the project, delete any images that are not their own, and edit the ones that belong to them.
 --- /task ---
 
 --- /collapse ---
