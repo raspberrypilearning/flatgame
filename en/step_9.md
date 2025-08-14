@@ -18,7 +18,7 @@ Use one of your drawings or a photo you have taken.
 --- task ---
 2. Remove any background you don't want — this has a collage effect so don't be too neat!
 
-![Screenshot of erase tool in the Scratch editor](images/erase.png)
+![Screenshot of the erase tool in the Scratch editor](images/erase.png)
 --- /task ---
 
 --- task ---
