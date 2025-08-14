@@ -14,23 +14,23 @@
 --- task ---
 2. In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
 
-![Screenshot of costume upload icon in Scratch editor](images/upload.png)
+![Screenshot of 'Upload Costume' icon in the Scratch editor](images/upload.png)
 --- /task ---
 
 --- task ---
 3. Delete the placeholder costume, but make sure you **do not** delete the zoom costume.
-![Screenshot of costume upload icon in Scratch editor](images/order.png)
+![Screenshot of 'Upload Costume' icon in the Scratch editor](images/order.png)
 --- /task ---
 
 --- task ---
 4. Click the purple 'Convert to vector' button beneath the image editor. 
 
-![Screenshot of convert to vector icon in Scratch editor](images/vector.png)
+![Screenshot of 'Convert to Vector' icon in the Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
 5. With the select tool, rotate and resize the photo so that it covers the paint area.
-![White cursor icon inside a purple square.](images/select_tool.png)
+![White cursor icon inside a purple square](images/select_tool.png)
 --- /task ---
 
 
