@@ -24,13 +24,13 @@ This doesn't have to be perfect — flatgames have a cutout collage effect, so i
 --- task ---
 3. With the select tool, drag over the image to select it. Rotate and centre the image by lining up the cross.
 
-![Blue select line around card in Scratch editor](images/centre.png)
+![Blue select line around card in the Scratch editor](images/centre.png)
 --- /task ---
 
 --- task ---
 4. Convert to vector
 
-![Screenshot of the 'Convert to Vector' icon in Scratch editor](images/vector.png)
+![Screenshot of the 'Convert to Vector' icon in the Scratch editor](images/vector.png)
 --- /task ---
 
 --- task ---
