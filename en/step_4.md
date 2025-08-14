@@ -12,7 +12,7 @@
 --- /task ---
 
 --- task ---
-2. In the background sprite upload costume, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
+2. In the 'Upload Costume' area for the background sprite, choose one of your photos. Rename the sprite "background" and drag it to the top of the list of costumes.
 
 ![Screenshot of 'Upload Costume' icon in the Scratch editor](images/upload.png)
 --- /task ---
