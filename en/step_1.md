@@ -17,7 +17,7 @@ And this one is about a card game!
 </div>
 
 ### What you'll need:
-To make a flatgame you start by crafting and making hand-drawn artwork for the game. 
+To make a flatgame, you start by crafting and making hand-drawn artwork for the game. 
 
 You'll need: 
 - 🎨 Drawing or crafting materials (pens, paper, scissors)
