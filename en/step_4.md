@@ -23,7 +23,7 @@ Delete the placeholder costume, but make sure you **do not** delete the zoom cos
 --- /task ---
 
 --- task ---
-Click the purple 'Convert to vector' button beneath the image editor. 
+Click the purple 'Convert to Vector' button beneath the image editor. 
 
 ![Screenshot of 'Convert to Vector' icon in the Scratch editor](images/vector.png)
 --- /task ---

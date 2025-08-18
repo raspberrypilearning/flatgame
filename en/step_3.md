@@ -27,7 +27,7 @@ Unlock your device: Most phones will ask for permission to allow file transfers.
 --- /task ---
 
 --- task ---
-On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device — hopefully it will be listed as an external drive in the list on the right.
+On your computer: Open the file browser (e.g., File Explorer, Finder). Look for your device — hopefully it will be listed as an external drive in the list.
 --- /task ---
 
 --- task ---

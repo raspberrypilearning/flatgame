@@ -15,7 +15,7 @@ In the player sprite's Code tab, add a layer block when the flag is clicked:
 
 
 --- task ---
-To make it look like it is moving towards each side, use a direction block when the arrow keys are pressed.
+To make the player sprite look like it's moving towards either side, use a direction block so that when the arrow keys are pressed, the player sprite appears to change direction.
 
 ```blocks3
 when flag clicked
