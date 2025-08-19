@@ -58,7 +58,7 @@ You can also take photos of things around the room that can be used as a backgro
 You can use the following pictures if you don't have a camera, or create some of your own in the paint editor in Scratch.
 
 --- task ---
-To use the images in the Drive folder, just [follow this link](https://drive.google.com/drive/folders/1zZ06mkskqer21uXyxuO8Hht9szpn9cYc){:target="_blank"} and click `Download all` at the top right of the window that opens.
+To use the images in the Drive folder, just [follow this link](https://rpf.io/flatgame-mentor){:target="_blank"} and click `Download all` at the top right of the window that opens.
 
 ![Google Drive folder named 'flatgame' with two subfolders, 'Textures' and 'Things', and a 'Download all' button.](images/downloadall.png)
 --- /task ---
