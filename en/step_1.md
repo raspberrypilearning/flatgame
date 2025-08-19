@@ -23,7 +23,7 @@ You'll need:
 - 🎨 Drawing or crafting materials (pens, paper, scissors)
 - 📷 A phone or tablet to take photos
 - 👾 The Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
-- ℹ Club leader helpsheet [starter project](http://rpf.io/flatgame-leader){:target="_blank"} (for mentors) 
+- ℹ Club leader helpsheet [starter project](resources/mentor-help-flatgame.pdf){:target="_blank"} (for mentors) 
 
 
 <div style="border-left: solid; border-width:10px; border-color: #41b653; background-color: #e3f4e6ff; padding: 10px; color: #000000; font-family: inherit;">
