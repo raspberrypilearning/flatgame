@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Make an awesome flatgame - a cross between a video game and visual poetry!
 pdf: resources/creator-flatgame.pdf
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2025-01-01"
 steps:
