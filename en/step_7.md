@@ -3,6 +3,7 @@
 The player sprite will animate to look like it is moving, but it will actually be the background that is moving, which you set up earlier.
 
 --- task ---
+
 When the game starts, you want the player sprite to be at the front. 
 
 In the player sprite's Code tab, add a layer block when the flag is clicked:
@@ -11,10 +12,12 @@ In the player sprite's Code tab, add a layer block when the flag is clicked:
 +when flag clicked
 +go to [front v] layer
 ```
+
 --- /task ---
 
 
 --- task ---
+
 To make the player sprite look like it's moving towards either side, use a direction block so that when the arrow keys are pressed, the player sprite appears to change direction.
 
 ```blocks3
@@ -30,7 +33,9 @@ if <key (right arrow v) pressed> then
 next costume
 end
 ```
+
 --- /task ---
+
 --- task ---
 
 **Test your code!** Press the green flag and the player sprite should move when you use the left and right keys.
@@ -39,12 +44,15 @@ end
 
 
 --- task --- 
+
 Your direction might be different — test out a few angles with the direction block until it looks like your sprite is facing the right way, as every sprite will be different depending on what the drawing looks like.
 
 ![Animation of direction block in the Scratch editor](images/direction.gif)
+
 --- /task ---
 
 --- task ---
+
 Now use an `operator`{:class="block3operators"} block to add the up and down keys. These don't need a direction, so the code is the same for both up and down.
 
 ```blocks3
@@ -63,4 +71,5 @@ end
 next costume
 end
 ```
+
 --- /task ---
