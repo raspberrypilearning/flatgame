@@ -82,5 +82,4 @@ You could animate some of the artwork to add movement to the flatgame.
 next costume
 wait (1) seconds
 ```
-
---- /task ---›
+--- /task ---

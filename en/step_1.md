@@ -24,6 +24,8 @@ You'll need:
 - 📷 A phone or tablet to take photos
 - 👾 The Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
 
+Club leaders can download and use the [mentor helpsheet](resources/mentor-help-flatgame.pdf){:target="_blank"} for tips on getting started.
+
 
 <div style="border-left: solid; border-width:10px; border-color: #41b653; background-color: #e3f4e6ff; padding: 10px; color: #000000; font-family: inherit;">
 <h3>Did you know?</h3>
