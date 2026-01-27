@@ -4,6 +4,7 @@ Flatgames are a great way to be creative and try new things out with scratch. Tr
 Here are some ideas - have a play! What else can you add? 
 
 --- task ---
+
 ### Make start text
 Let people know the title of your flatgame and how to play
 
@@ -28,9 +29,11 @@ Let people know the title of your flatgame and how to play
 +wait (0.2) seconds
 +hide
 ```
+
 --- /task ---
 
 --- task ---
+
 ### Add more artwork sprite
 Flatgames are great when they are full of art! 
 
@@ -40,9 +43,11 @@ Flatgames are great when they are full of art!
 - Upload a new costume and edit it in the same way as the artwork you made earlier.
 
 You can think about where you want to place the new artwork sprites - are they all in a line, or spread out?
+
 --- /task ---
 
 --- task ---
+
 ### Change layer of artworks
 It can be fun for the player spite to walk under and over the artwork, change some of the layers to do this. 
 
@@ -52,10 +57,12 @@ It can be fun for the player spite to walk under and over the artwork, change so
 ```blocks3
 +go to [front v] layer
 ```
+
 --- /task ---
 
 
 --- task ---
+
 ### Animate the artwork
 You could animate some of the artwork to add movement to the flatgame.
 

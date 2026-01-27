@@ -5,6 +5,7 @@ Test out your player and imagine a sound that it could make.
 For example, walking background of leaves might make a crunch sound. 
 
 --- task ---
+
 Open the Sounds tab and click 'Choose a sound'.
 
 ![Screenshot of the Sounds tab in the Scratch editor](images/sound-tab.png)
@@ -13,19 +14,24 @@ Hover over the play button to try out sounds until you find one that would work 
 --- /task ---
 
 --- task ---
+
 Click on the sound to select it.
 
 ![Screenshot of a sound in the Scratch editor](images/choose-sound.png)
+
 --- /task ---
 
 --- task ---
+
 Edit the sound to make it softer or faster by clicking the icons in the editor.
 
 
 ![Screenshot of the sound editor in the Scratch editor](images/edit-sound.png)
+
 --- /task ---
 
 --- task ---
+
 Add sound blocks to your code:
 
 ```blocks3
@@ -45,6 +51,7 @@ next costume
 +play sound (Wood Tap v) until done
 end
 ```
+
 --- /task ---
 
 --- task ---
