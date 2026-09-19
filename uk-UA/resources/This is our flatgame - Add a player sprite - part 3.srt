@@ -1,0 +1,45 @@
+1
+00:00:00,480 --> 00:00:06,800
+The player sprite explores the flatgame, 
+checking out different drawings and textures.  
+
+2
+00:00:06,800 --> 00:00:15,040
+To add a player sprite, upload a new sprite 
+and rename it player. Go to the costumes tab.  
+
+3
+00:00:15,040 --> 00:00:19,600
+Use the eraser tool to remove any part of 
+the image you don't want.  
+
+4
+00:00:19,600 --> 00:00:25,120
+You can change the size of the eraser tool for smaller 
+details. This doesn't have to be perfect.  
+
+5
+00:00:25,120 --> 00:00:32,480
+Flatgames have a very cut-out collage 
+feel so it can be roughly done.
+
+6
+00:00:32,480 --> 00:00:38,880
+With the select tool, drag over the image 
+to select it all and centre and rotate the image. 
+
+7
+00:00:38,880 --> 00:00:45,840
+Convert to vector and use the 
+select tool to resize and  
+
+8
+00:00:45,840 --> 00:00:51,120
+rotate the sprite to how you want it.
+Right click and duplicate the costume.  
+
+9
+00:00:51,760 --> 00:00:59,040
+Move the new costume and rotate it very slightly. 
+This will animate it to look like it is moving.
+
