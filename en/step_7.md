@@ -67,7 +67,7 @@ if <key (right arrow v) pressed> then
 point in direction (-90)
 next costume
 end
-+if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then
++if <<key (up arrow v) pressed> or <key (down arrow v) pressed >> then
 next costume
 end
 ```
