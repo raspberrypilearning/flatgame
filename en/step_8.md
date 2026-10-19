@@ -39,14 +39,16 @@ when flag clicked
 go to [front v] layer
 forever
 if <key (left arrow v) pressed> then
+point in direction (90)
 next costume
 +play sound (Wood Tap v) until done
 end
 if <key (right arrow v) pressed> then
+point in direction (-90)
 next costume
 +play sound (Wood Tap v) until done
 end
-if <<key (up arrow v) pressed> or <key (up arrow v) pressed >> then
+if <<key (up arrow v) pressed> or <key (down arrow v) pressed >> then
 next costume
 +play sound (Wood Tap v) until done
 end

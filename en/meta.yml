@@ -21,5 +21,6 @@ steps:
   - title: Add sound
   - title: Add artwork
   - title: Challenge
+    challenge: true
     completion:
       - external
