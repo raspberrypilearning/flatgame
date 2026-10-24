@@ -1,0 +1,25 @@
+1
+00:00:00,640 --> 00:00:06,400
+Open the Scratch starter project and in the 
+background sprite, upload one of your photos  
+
+2
+00:00:06,400 --> 00:00:16,960
+to be used as a background. Rename the sprite 
+background and drag it to the top of the costumes.
+
+3
+00:00:16,960 --> 00:00:22,320
+Delete the placeholder costume, but make 
+sure you don't delete the Zoom costume.  
+
+4
+00:00:22,320 --> 00:00:31,840
+Click convert to vector. Rotate and resize 
+the photo so that it covers the paint area.  
+
+5
+00:00:31,840 --> 00:00:39,040
+In the starter code, change the pull down menu 
+in the switch costume block to say background.
+
